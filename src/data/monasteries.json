@@ -1,0 +1,1082 @@
+﻿[
+  {
+    "id": 1,
+    "name": "Rumtek Monastery",
+    "location": "Rumtek, East Sikkim",
+    "established": "1740 (Original), 1966 (Present)",
+    "imageName": "Old-Rumtek-Monastery1.png",
+    "latitude": 27.3539,
+    "longitude": 88.6207,
+    "history": "Rumtek Monastery, also known as the Dharmachakra Centre, is the most important Karma Kagyu monastery outside Tibet. The original structure was built around 1740 by the 9th Karmapa Wangchuk Dorje, serving as the primary seat of the Karmapa lineage in Sikkim for over two centuries. Following the Chinese occupation of Tibet in 1959, the 16th Karmapa Rangjung Rigpe Dorje fled to Sikkim and established the present grand monastery in 1966 as a seat-in-exile, replicating the original Tsurphu Monastery in Tibet. The complex houses a golden stupa containing sacred relics of the 16th Karmapa, a four-storey main temple with exquisite murals, a library of rare Buddhist texts, and a shedra (monastic college). Rumtek is famous for its elaborate annual Kagyed cham festival and remains one of the most visited spiritual sites in Sikkim, drawing pilgrims and scholars from across the world."
+  },
+  {
+    "id": 2,
+    "name": "Pemayangtse Monastery",
+    "location": "Pelling, West Sikkim",
+    "established": "1650–1651 A.D",
+    "imageName": "Pemangytse.webp",
+    "latitude": 27.2051,
+    "longitude": 88.2134,
+    "history": "Pemayangtse Monastery, meaning 'Perfect Sublime Lotus,' is one of Sikkim's oldest and most revered monasteries, founded by Lama Lhatsun Chenpo around 1705 on a site originally blessed in the mid-17th century. Belonging to the Nyingma school, it was historically reserved for monks of pure Tibetan Lepcha lineage and served as the state monastery of the Chogyal kings. Perched at 2,085 metres with panoramic views of Kanchenjunga, the three-storeyed complex houses some of Sikkim's finest ancient thangkas, Buddhist scriptures, and ritual objects. Its most celebrated treasure is the seven-tiered hand-crafted wooden model of Zangdog Palri — Guru Padmasambhava's celestial palace — a masterpiece taking years to complete. The monastery's annual cham dance festival during Losar draws thousands of devotees."
+  },
+  {
+    "id": 3,
+    "name": "Tashiding Monastery",
+    "location": "Tashiding, West Sikkim",
+    "established": "1651 A.D",
+    "imageName": "Tashiding-Monastery.webp",
+    "latitude": 27.3372,
+    "longitude": 88.2714,
+    "history": "Tashiding Monastery, meaning 'Devoted Central Glory,' is considered the most sacred monastery in Sikkim and belongs to the Nyingma sect. Perched atop a hill at the confluence of the Rangeet and Rathong rivers, the site was blessed by Guru Padmasambhava himself during the 8th century. The monastery was formally established in 1651 by Ngadak Sempa Chembo, one of the three revered lamas who crowned Sikkim's first king. Tashiding is most famous for its annual Bhumchu festival, held during Tibetan New Year, during which a centuries-old sealed urn of holy water is opened and its level is believed to predict the year's fortunes. The monastery's hillside is dotted with dozens of sacred chortens of varying sizes, including the highly venerated Thong-wa Rangdol stupa, said to grant liberation upon sight."
+  },
+  {
+    "id": 4,
+    "name": "Dubdi Monastery",
+    "location": "Yuksom, West Sikkim",
+    "established": "1647 A.D",
+    "imageName": "Dubdi Monastery.webp",
+    "latitude": 27.3667,
+    "longitude": 88.2167,
+    "history": "Dubdi Monastery, known as 'The Hermit's Cell,' holds the distinction of being the oldest monastery in Sikkim, established in 1647 by Lama Lhatsun Chenpo — the spiritual master who also crowned Sikkim's first Chogyal (sacred king) at nearby Yuksom. Perched on a forested hilltop above Yuksom at about 2,200 metres, the monastery belongs to the Nyingma school and was conceived as a solitary retreat centre for advanced meditation. The approach through ancient oak and rhododendron forests adds to its deeply contemplative atmosphere. The monastery's main shrine houses centuries-old statues, thangkas, and sacred texts believed to have been brought from Tibet by its founder. Dubdi remains one of Sikkim's most spiritually potent sites and is a UNESCO tentative heritage location, visited by trekkers en route to Goecha La."
+  },
+  {
+    "id": 5,
+    "name": "Ralang Monastery",
+    "location": "Ralang, South Sikkim",
+    "established": "1730 (Old), 1995 (New)",
+    "imageName": "Ralang-Monastery.webp",
+    "latitude": 27.2833,
+    "longitude": 88.5500,
+    "history": "Ralang Monastery has two distinct structures reflecting three centuries of continuous Karma Kagyu tradition in South Sikkim. The Old Ralang Monastery was built around 1730 by the fourth Chogyal Gyurmed Namgyal following his pilgrimage to Tibet, establishing it as a major Kagyupa centre. The New Ralang Monastery, formally known as Palchen Choeling, was built in 1995 and is one of the most architecturally impressive monasteries in Sikkim, featuring a 35-foot gilded statue of Guru Padmasambhava. Ralang is famous for the Pang Lhabsol festival — a uniquely Sikkimese celebration honouring Mount Kanchenjunga as protector deity — during which elaborate masked dances are performed. The monastery maintains a shedra (monastic college) and a three-year retreat programme, preserving the Kagyu meditation tradition in its complete form."
+  },
+  {
+    "id": 6,
+    "name": "Kathog Lake Monastery",
+    "location": "Yuksom, West Sikkim",
+    "established": "1840 A.D",
+    "imageName": "Kathog.webp",
+    "latitude": 27.3667,
+    "longitude": 88.2333,
+    "history": "Kathog Lake Monastery, also known as Kathog Dorjeden, is built beside the sacred Kathog Lake near Yuksom, a site revered for centuries by the Nyingma tradition. The lake is considered one of the most spiritually potent water bodies in Sikkim, associated with healing and wish-fulfilment, and legend holds that Guru Padmasambhava meditated beside its shores. The monastery traces its spiritual heritage to the ancient Katok Monastery in Kham, Tibet — one of the six principal Nyingma monasteries — and carries forward that venerable lineage in Sikkim. The complex offers a peaceful environment for meditation retreats and Buddhist studies, and its proximity to the coronation site of Sikkim's first king at Yuksom adds to its historical richness. Pilgrims circumambulate the sacred lake as a spiritual practice before entering the monastery."
+  },
+  {
+    "id": 7,
+    "name": "Lingdum Zurmang Monastery",
+    "location": "Ranka, East Sikkim",
+    "established": "1999",
+    "imageName": "Lingdum-Zurmang.webp",
+    "latitude": 27.2833,
+    "longitude": 88.5167,
+    "history": "Lingdum Zurmang Monastery, established in 1999 in the Ranka area of East Sikkim, is one of the finest examples of modern Tibetan Buddhist architecture in the region, built to perpetuate the Zurmang Kagyu tradition. The Zurmang lineage traces its roots to the 14th century Tibetan master Trungmase and is one of the sub-schools of the Kagyu tradition, known for its rich heritage of meditation and scholarship. The monastery was established with the patronage of the Zurmang Gharwang Rinpoche, the head of the Zurmang Kagyu lineage. Its main hall features a magnificent three-storey gilded statue of the Buddha of Compassion, intricate murals painted by Tibetan artists, and prayer halls resonant with daily chanting. The monastery hosts regular meditation courses, Buddhist philosophy classes, and is an active centre of Kagyu practice."
+  },
+  {
+    "id": 8,
+    "name": "Bumtar Namdroling Monastery",
+    "location": "Bumtar, South Sikkim",
+    "established": "1939 A.D",
+    "imageName": "Bumtar Namdroling Monastery1.jpg",
+    "latitude": 27.3000,
+    "longitude": 88.6000,
+    "history": "Bumtar Namdroling Monastery, established in 1939, is a vibrant Nyingma monastery in Bumtar, South Sikkim, sharing its name with the famous Namdroling ('Victorious Peak of the Wish-Fulfilling Jewel') in Karnataka. Founded by a recognised master of the Longchen Nyingthig lineage, the monastery was built with assistance from Tibetan craftsmen who painted its walls and sculpted clay statues of exceptional quality. The main shrine features the Buddhas of the Three Times — Dipankara, Shakyamuni, and Maitreya — symbolising the continuity of Buddhist teachings across past, present, and future. The monastery has maintained a strong Nyingma monastic community for over eight decades, training monks in ritual performance, meditation, and the sacred arts. It hosts lively annual festivals that draw devotees from across South Sikkim and remains an important centre of Nyingma heritage in the region."
+  },
+  {
+    "id": 9,
+    "name": "Doling Monastery",
+    "location": "South Sikkim",
+    "established": "1718 A.D",
+    "imageName": "Doling-Monastery1.jpg",
+    "latitude": 27.2300,
+    "longitude": 88.4200,
+    "history": "Doling Monastery, founded in 1718, is one of the historically significant Buddhist monasteries of South Sikkim, established during the cultural flourishing of the Chogyal era. Its name evokes the image of an 'island of meditation' — a sanctuary set apart from worldly life. Founded by a Nyingma lama who identified the site as geomantically auspicious, the monastery quickly became the spiritual and social heart of its community, serving as a school for monks, a place of community gathering, and a refuge in times of difficulty. The monastery's prayer hall is adorned with traditional murals depicting the Wheel of Life, the Eight Auspicious Symbols, and scenes from the life of Guru Padmasambhava. Its collection of bronze statues, ritual objects, and centuries-old manuscripts makes it a repository of irreplaceable Buddhist heritage. Over 300 years, Doling has preserved an unbroken lineage of Nyingma prayer and practice."
+  },
+  {
+    "id": 10,
+    "name": "Karma Raptenling Monastery",
+    "location": "South Sikkim",
+    "established": "1960 A.D",
+    "imageName": "Karma-Raptenling-Monastery1.jpg",
+    "latitude": 27.2500,
+    "longitude": 88.4100,
+    "history": "Karma Raptenling Monastery, founded around 1960, is a prominent Karma Kagyu monastery in South Sikkim that emerged during a pivotal period in Himalayan Buddhist history — the years following the Tibetan exodus, when many lamas and monks sought refuge in Sikkim bringing with them invaluable teaching lineages. The monastery's name, 'Karma Raptenling' meaning 'Place of Firm Karma Teachings,' reflects its dedication to preserving the Kagyu tradition. Established with the blessings of senior Kagyu lamas, it rapidly grew into an active centre for meditation, liturgical performance, and monastic education. The monastery maintains a strong community life centred on daily rituals, seasonal retreats, and community festivals, and has played an important role in keeping the Kagyu Dharma vibrant in South Sikkim through the post-merger decades."
+  },
+  {
+    "id": 11,
+    "name": "Ngadag Monastery",
+    "location": "South Sikkim",
+    "established": "1690 A.D",
+    "imageName": "Ngadag-Monastery1.jpg",
+    "latitude": 27.2400,
+    "longitude": 88.4300,
+    "history": "Ngadag Monastery, originally built around 1690 by the Chogyals of Sikkim, is one of the oldest monasteries in South Sikkim and carries deep historical significance as a royal-patronised institution. The original structure is believed to have incorporated elements of a palace before its transformation into a full monastic complex. A newer, earthquake-resistant building was constructed in a later era to replace portions of the original structure while preserving its sacred interior. The monastery is renown for its spiritual ambiance, ancient religious artefacts, and collection of rare Nyingma texts that survived the turbulent centuries of Sikkimese history. The name 'Ngadag' refers to a class of powerful guardian deities, reflecting the monastery's historic role as a spiritual protector of the surrounding community. Its annual religious ceremonies attract large numbers of devotees from across South Sikkim."
+  },
+  {
+    "id": 12,
+    "name": "Aden Wolung Monastery",
+    "location": "Aden Wolung, West Sikkim",
+    "established": "1913 A.D",
+    "imageName": "ADEN WOLUNG.jfif",
+    "latitude": 27.2800,
+    "longitude": 88.1800,
+    "history": "Aden Wolung Monastery, established in 1913, is a sacred Nyingma monastery situated in the mountain landscape of West Sikkim. The monastery was founded by a senior lama who had received training at major Nyingma institutions and sought to create a permanent centre for the tradition in the Aden Wolung area. Its founding came during a period of significant religious activity in West Sikkim, as the region's Buddhist communities worked to strengthen monastic institutions in the face of social and colonial pressures of the early 20th century. The monastery is known for its traditional Tibetan architecture — whitewashed exterior walls, timber-framed windows painted in rich ochre, and a roof adorned with dharma wheels. It preserves a collection of ancient ritual instruments, hand-painted thangkas, and Nyingma liturgical texts. The monastery serves as a vital spiritual anchor for the Aden Wolung community and hosts important annual festivals."
+  },
+  {
+    "id": 13,
+    "name": "Chakung Monastery",
+    "location": "Chakung, West Sikkim",
+    "established": "1750 A.D",
+    "imageName": "CHAKUNG.jfif",
+    "latitude": 27.2600,
+    "longitude": 88.1600,
+    "history": "Chakung Monastery, founded around 1750 in the Himalayan foothills of West Sikkim, is one of the historic Nyingma monasteries of the western district, established during the height of the Chogyal kingdom's religious patronage. The monastery was built on a site chosen for its natural beauty and spiritual power, surrounded by dense forests and commanding views of the surrounding valleys. Over nearly three centuries, Chakung has served as a centre for Buddhist learning, meditation practice, and community worship, preserving a treasury of religious artefacts including gilded statues, butter lamp holders of antique craftsmanship, and hand-inscribed manuscript collections. The monastery follows a rich calendar of ritual observances, including elaborate seasonal offerings and the annual performance of sacred cham dances, which remain a highlight of the local cultural calendar. Chakung Monastery continues to be a place of active monastic life and community service."
+  },
+  {
+    "id": 14,
+    "name": "Dodak Tamu Monastery",
+    "location": "Dodak Tamu, West Sikkim",
+    "established": "2005 A.D",
+    "imageName": "DODAK TAMU.jfif",
+    "latitude": 27.3100,
+    "longitude": 88.1900,
+    "history": "Dodak Tamu Monastery, formally established in 2005, is one of the newer monastic institutions in West Sikkim, founded to serve the spiritual needs of the Tamu (Gurung) community in the Dodak area. The Tamu people have a rich tradition of Tibetan Buddhist practice, and this monastery was established as a permanent institutional home for that heritage in West Sikkim. Despite its recent formal establishment, the site carries a long association with Buddhist activity, and the monastery was built on land considered sacred by the local community for generations. The monastery follows the Nyingma tradition and has quickly established a reputation for lively Buddhist festivals and its role as an educational centre for young monks from the Tamu community. Its founding reflects the continuing vitality and growth of Buddhist monasticism in West Sikkim in the 21st century."
+  },
+  {
+    "id": 15,
+    "name": "Druk Monastery",
+    "location": "Druk, West Sikkim",
+    "established": "1700 A.D",
+    "imageName": "Druk.jfif",
+    "latitude": 27.2900,
+    "longitude": 88.2100,
+    "history": "Druk Monastery, founded around 1700, is a prominent monastery of the Drukpa Kagyu tradition in West Sikkim — one of the few monasteries in Sikkim affiliated with this school, which is the dominant Buddhist tradition of Bhutan. The Drukpa Kagyu lineage takes its name from Druk ('Thunder Dragon'), a vision experienced by its founder Tsangpa Gyare in 12th-century Tibet. Established in the early 18th century under Chogyal patronage, Druk Monastery became an important bridge between the Buddhist traditions of Sikkim and Bhutan. The monastery is famous for its spectacular cham dance performances, which are particularly dynamic in the Drukpa tradition, and its annual celebrations draw devotees from across the western districts. The monastery commands stunning mountain views and maintains a serene atmosphere ideal for meditation and contemplation."
+  },
+  {
+    "id": 16,
+    "name": "Hungri Monastery",
+    "location": "Hungri, West Sikkim",
+    "established": "1922 A.D",
+    "imageName": "HUNGRI.jpg",
+    "latitude": 27.2700,
+    "longitude": 88.1700,
+    "history": "Hungri Monastery, established in 1922, is a traditional Nyingma monastery nestled in the hills of West Sikkim, founded in the early decades of the 20th century when Sikkim was a British protectorate. The founding lama of Hungri was a practitioner who had completed extensive training in monastic and meditative disciplines and sought to bring those teachings to the Hungri community. The monastery was built in the classical Tibetan style and became an immediate centre of religious life for the surrounding villages, providing ceremonies for the living and the deceased, education for young monks, and a permanent sacred space for community prayer. It is known for maintaining a disciplined schedule of daily rituals, seasonal retreats, and preserving a collection of traditional Tibetan Buddhist manuscripts and liturgical objects. Hungri Monastery remains an active spiritual centre in West Sikkim."
+  },
+  {
+    "id": 17,
+    "name": "Khachoedpalri Monastery",
+    "location": "Khachoedpalri, West Sikkim",
+    "established": "1700 A.D",
+    "imageName": "KHACHOEDPALRI.jpg",
+    "latitude": 27.3200,
+    "longitude": 88.1500,
+    "history": "Khachoedpalri Monastery is located adjacent to the sacred Khachoedpalri Lake — regarded as Sikkim's most sacred lake and said to be the wish-fulfilling jewel of the Himalayan region. The monastery was established around 1700 to serve as the spiritual guardian of this revered water body, which is associated with Guru Padmasambhava and the goddess Tara. The lake is unique in that no leaf is ever seen floating on its surface, as local birds are believed to remove each fallen leaf immediately, maintaining its pristine purity. Both Buddhists and Hindus consider the site supremely auspicious, and devotees take ritual baths in the lake's waters believing their wishes will be fulfilled. The monastery houses ancient murals, sacred relics, and a library of canonical texts. It is one of the most important pilgrimage destinations in Sikkim, visited year-round by devotees from across the Himalayan region."
+  },
+  {
+    "id": 18,
+    "name": "Lhuntse Monastery",
+    "location": "Lhuntse, West Sikkim",
+    "established": "1720 A.D",
+    "imageName": "LHUNTSE.jfif",
+    "latitude": 27.2500,
+    "longitude": 88.1400,
+    "history": "Lhuntse Monastery, founded around 1720, is a historic Nyingma monastery in West Sikkim established during the early decades of the Chogyal kingdom when Buddhist monasteries were receiving generous royal support. The founding lama was a learned master who brought rare Tibetan manuscripts and sacred images to Lhuntse, founding the monastery as both a place of worship and a library of Buddhist knowledge. Over three centuries, the monastery has been known for its exceptional collection of hand-illuminated Buddhist texts and for its beautiful interior murals, which depict the major deities and cosmological visions of the Nyingma tradition with a quality of artistry that attests to the skill of the craftsmen who decorated its walls. Lhuntse also maintains a tradition of meditation retreats, offering structured programmes for monks and advanced lay practitioners who seek immersive Nyingma contemplative training in its peaceful Himalayan setting."
+  },
+  {
+    "id": 19,
+    "name": "Melli-Atsing Monastery",
+    "location": "Melli-Atsing, West Sikkim",
+    "established": "1850 A.D",
+    "imageName": "MELLI-ATSING.jfif",
+    "latitude": 27.2400,
+    "longitude": 88.1300,
+    "history": "Melli-Atsing Monastery, established around 1850, is a community-oriented Buddhist monastery in the lower elevations of West Sikkim. Founded during a period of stable Chogyal rule, the monastery emerged from the grassroots devotion of the Melli-Atsing community, who pooled their resources to invite a qualified lama and establish a permanent monastic institution in their village. The monastery follows the Nyingma tradition and has served as the spiritual backbone of its community for over 170 years, conducting lifecycle rituals, annual festivals, and regular prayer gatherings that give structure and meaning to the community's religious life. The monastery maintains a warm and inclusive atmosphere and is particularly noted for its role in preserving local Sikkimese Buddhist customs that blend Tibetan, Lepcha, and Bhutia elements into a distinctive regional style of practice."
+  },
+  {
+    "id": 20,
+    "name": "Nubling Monastery",
+    "location": "Nubling, West Sikkim",
+    "established": "1860 A.D",
+    "imageName": "NUBLING1.jfif",
+    "latitude": 27.2200,
+    "longitude": 88.1200,
+    "history": "Nubling Monastery, founded around 1860, is a traditional Buddhist monastery in the scenic landscape of West Sikkim, established during the later decades of the Chogyal kingdom. The monastery belongs to the Nyingma school and was built by local Buddhist families under the spiritual guidance of a lama who had studied at the major Nyingma institutions of Sikkim and Tibet. The main shrine features a central altar with gilded images of Guru Padmasambhava, Amitabha Buddha, and Chenrezig (Avalokiteshvara), flanked by extensive thangka paintings of the Nyingma lineage masters. Nubling Monastery has served its community faithfully through the political transformation of Sikkim, maintaining its ancient traditions of daily prayer, community ritual, and the transmission of Buddhist teachings across generations. The monastery is particularly valued for its preservation of traditional Nyingma chanting melodies that are increasingly rare."
+  },
+  {
+    "id": 21,
+    "name": "Okhery Monastery",
+    "location": "Okhery, West Sikkim",
+    "established": "1949 A.D",
+    "imageName": "OKHERY1.jfif",
+    "latitude": 27.3300,
+    "longitude": 88.2000,
+    "history": "Okhery Monastery, established in 1949 at the cusp of India's independence, is a Nyingma monastery in the hills of West Sikkim that reflects the resilience and adaptability of Sikkimese Buddhist culture during a period of significant regional change. The founding lama chose the site for its natural beauty and peaceful energy, establishing a monastery dedicated to meditation practice and community service. The monastery developed steadily over the following decades, acquiring a reputation for the quality of its liturgical performance and the accessibility of its teachings to lay practitioners. Okhery is particularly known for its annual Guru Rinpoche anniversary celebration, during which elaborate rituals and masked dances are performed over multiple days. Its traditional Tibetan architectural style and mountain setting create an atmosphere of profound serenity that continues to attract both devotees and spiritual seekers."
+  },
+  {
+    "id": 22,
+    "name": "Pegmantysse Monastery",
+    "location": "Pegmantysse, West Sikkim",
+    "established": "1900 A.D",
+    "imageName": "pegmantysse1.jfif",
+    "latitude": 27.2300,
+    "longitude": 88.1100,
+    "history": "Pegmantysse Monastery, founded around 1900, marks the beginning of a new century of Buddhist monastic development in West Sikkim. Established at the turn of the 20th century under the patronage of local Buddhist families and guided by a Nyingma lama of recognised accomplishment, the monastery quickly became a centre of active community spiritual life. Though relatively recent compared to Sikkim's oldest monasteries, Pegmantysse has built a strong tradition of both scholarly study and practical meditation over more than a century. The monastery maintains close ties with the larger Nyingma institutions of West Sikkim and sends its senior monks for advanced training at established monastic colleges. It is known for its active lay community programme, which offers regular teachings and practice sessions for non-ordained practitioners, making the Dharma broadly accessible in its region."
+  },
+  {
+    "id": 23,
+    "name": "Rinchen Choling Monastery",
+    "location": "Rinchen Choling, West Sikkim",
+    "established": "1840 A.D",
+    "imageName": "RINCHEN CHOLING.jfif",
+    "latitude": 27.2600,
+    "longitude": 88.1800,
+    "history": "Rinchen Choling Monastery, whose name means 'Precious Dharma Place,' is an aptly named spiritual jewel established around 1840 in West Sikkim. Founded during the reign of the Chogyal dynasty, the monastery has lived up to its auspicious name by serving for nearly two centuries as a repository of the Buddhist teachings and a centre of genuine practice. Built on a site identified by the founding lama as geomantically favourable, the monastery features exquisite traditional Tibetan Buddhist architecture with ornately painted woodwork and vibrant murals. Rinchen Choling is particularly known for its festivals and for its role in training monks in the traditional arts of thangka painting and ritual music. Its main shrine houses a revered image of Rinpoche Amitabha, flanked by handcrafted offering bowls and butter lamps maintained continuously for generations, symbolising the monastery's unbroken tradition."
+  },
+  {
+    "id": 24,
+    "name": "Rinchenpung Monastery",
+    "location": "Rinchenpung, West Sikkim",
+    "established": "1890 A.D",
+    "imageName": "RINCHENPUNG1.jfif",
+    "latitude": 27.2800,
+    "longitude": 88.1900,
+    "history": "Rinchenpung Monastery, founded around 1890, occupies a strategically significant hilltop position in West Sikkim and has served as a guardian of Buddhist traditions in its area for over 130 years. The name 'Rinchenpung' evokes a 'Heap of Precious Things,' a name that reflects the monastery's role as a treasury of Buddhist knowledge, sacred artefacts, and living spiritual practices. Established in the late 19th century, the monastery thrived under the patronage of local aristocratic families and quickly earned a reputation for the quality of its ritual performance, particularly its annual celebration of the Kagyed and Tsechu festivals, during which monks in elaborate brocade costumes and masks perform sacred dances that depict the triumph of enlightened activity over ignorance. The monastery is particularly famous for its collection of ancient ceremonial masks, considered among the finest in West Sikkim."
+  },
+  {
+    "id": 25,
+    "name": "Sinon Monastery",
+    "location": "Sinon, West Sikkim",
+    "established": "1920 A.D",
+    "imageName": "Sinon.png",
+    "latitude": 27.3000,
+    "longitude": 88.2200,
+    "history": "Sinon Monastery, established around 1920, is one of the early 20th century additions to West Sikkim's rich monastic heritage, founded during a period of Buddhist cultural revival across the Himalayan region. The founding lama was a practitioner of the Nyingma school who had received training in both classical Buddhist philosophy and the meditative practices of the Dzogchen and Terma traditions. The monastery was established with the full support of the Sinon community, who contributed land, labour, and materials for its construction. Over its century of existence, Sinon Monastery has maintained an active programme of ritual observances, community education, and spiritual guidance. It is known for its modern approach to presenting traditional Buddhist teachings in a way that remains relevant to contemporary practitioners while honouring the ancient wisdom of the Nyingma lineage."
+  },
+  {
+    "id": 26,
+    "name": "Sri Badam Monastery",
+    "location": "Sri Badam, West Sikkim",
+    "established": "1976 A.D",
+    "imageName": "SRI BADAM.jpg",
+    "latitude": 27.2700,
+    "longitude": 88.1600,
+    "history": "Sri Badam Monastery, formally established in 1976 — just one year after Sikkim's integration into India — represents the Buddhist community's determination to maintain and strengthen its monastic institutions during a time of major political transition. The monastery was founded by a respected Nyingma lama who saw the establishment of a new monastic centre in Sri Badam as an important contribution to the preservation of Sikkimese Buddhist culture in the new political environment. Built with community support and with the blessings of senior lamas, Sri Badam Monastery quickly became a vital spiritual centre for the area. It is dedicated to the preservation of Buddhist scriptures and the provision of spiritual education, maintaining a programme of study and practice that includes courses in Buddhist philosophy, ritual performance, and traditional arts. The monastery continues to grow in membership and influence."
+  },
+  {
+    "id": 27,
+    "name": "Tashi Samboling Monastery",
+    "location": "Tashi Samboling, West Sikkim",
+    "established": "1830 A.D",
+    "imageName": "TASHI SAMBOLING.jfif",
+    "latitude": 27.2900,
+    "longitude": 88.2000,
+    "history": "Tashi Samboling Monastery, whose name means 'Place of Good Fortune and Complete Liberation,' was established around 1830 in West Sikkim and has lived up to its auspicious name for nearly two centuries. Founded during a period of active monastic patronage under the Chogyal kings, the monastery quickly became a beloved centre of Buddhist practice in its region. The founding lama is said to have chosen the site after experiencing an auspicious vision of the goddess Tara indicating the location as particularly blessed. The monastery is renowned for its spiritual atmosphere, traditional architecture, and vibrant festival calendar. It maintains an especially beautiful tradition of mandala offerings, with the monks creating elaborate sand and grain mandalas during the major annual observances that draw devotees from across West Sikkim. The monastery also maintains a practice hall for extended meditation retreats."
+  },
+  {
+    "id": 28,
+    "name": "Enchey Monastery",
+    "location": "Gangtok, East Sikkim",
+    "established": "1840 A.D",
+    "imageName": "Enchey-Monastery1.png",
+    "latitude": 27.3408,
+    "longitude": 88.6200,
+    "history": "Enchey Monastery, meaning 'Solitary Temple,' is one of the most iconic landmarks of Gangtok, established in 1840 on a site blessed by the revered tantric master Lama Druptob Karpo, who is traditionally said to have possessed the ability to fly. The monastery belongs to the Nyingma school and stands atop a ridge at 1,800 metres, commanding breathtaking panoramic views of the Kanchenjunga range. The present two-storey structure, rebuilt in 1909, follows classical Tibetan Buddhist design with painted wooden facades and a richly decorated interior. Enchey is most famous for its spectacular annual Chaam masked dance festival held in December or January, during which monks wearing elaborate masks representing deities perform sacred dances that attract thousands of visitors. The monastery's protector deity shrine houses powerful ritual objects and is considered especially potent for blessings and protection."
+  },
+  {
+    "id": 29,
+    "name": "Lingdok Tsangkhar Monastery",
+    "location": "Lingdok, East Sikkim",
+    "established": "1862 A.D",
+    "imageName": "Lingdok-Tsangkhar-Monastery1.jpg",
+    "latitude": 27.3150,
+    "longitude": 88.5950,
+    "history": "Lingdok Tsangkhar Monastery, founded in 1862, is a historic Nyingma monastery in East Sikkim whose name 'Tsangkhar' means 'White House' in Tibetan — a reference to its characteristic whitewashed walls that gleam against the green hillside. Established during a period of active monastic building in Sikkim's eastern district, the monastery was founded by a lama of recognised accomplishment who brought with him rare manuscripts and sacred relics from Tibet. Over more than 160 years, Lingdok Tsangkhar has served as an important centre of Nyingma Buddhist practice, maintaining an unbroken tradition of daily rituals, seasonal ceremonies, and monastic education. The monastery's collection of ancient Buddhist scriptures and its painted thangkas depicting the Nyingma lineage masters are considered significant cultural treasures. The monastery continues to play a vital role in the spiritual life of the Lingdok community."
+  },
+  {
+    "id": 30,
+    "name": "Lachen Ngodub Choling Monastery",
+    "location": "Lachen, North Sikkim",
+    "established": "1858 A.D",
+    "imageName": "LACHEN NGODUB CHOLING MONASTERY 1.jpg",
+    "latitude": 27.6950,
+    "longitude": 88.5450,
+    "history": "Lachen Ngodub Choling Monastery, founded around 1858, is one of the most important Nyingma monasteries in North Sikkim, located in the picturesque village of Lachen at approximately 2,750 metres elevation. Its name, 'Ngodub Choling,' meaning 'Monastery of the Accomplished Ones,' reflects its founding tradition of harbouring practitioners of exceptional spiritual attainment. The monastery serves as the spiritual centre for the Bhutia community of Lachen, who have maintained a distinct and self-governing village democracy (dzumsa) for centuries. The monastery is renowned for its annual Guru Rinpoche festival and for beautiful murals and sacred relics that have been passed down through generations. Situated near the gateway to the pristine alpine meadows of Thangu and Chopta valley, the monastery has also been a spiritual landmark for traders and travellers on the ancient Lachen-Tibet route."
+  },
+  {
+    "id": 31,
+    "name": "Lachen Thangu Monastery",
+    "location": "Thangu Valley, North Sikkim",
+    "established": "1880 A.D",
+    "imageName": "LACHEN THANGU MONASTERY 1.jpg",
+    "latitude": 27.7500,
+    "longitude": 88.5800,
+    "history": "Lachen Thangu Monastery, established around 1880, is one of the most remote and high-altitude monasteries in Sikkim, situated in the breathtaking Thangu Valley at approximately 3,962 metres, close to the Indo-China border. This Nyingma monastery serves the spiritual needs of the nomadic yak-herding communities and semi-permanent residents of this extreme high-altitude region, who have maintained Buddhist traditions in one of the world's most challenging environments for centuries. Despite brutal winters in which the valley is buried in snow for months, the monastery maintains a dedicated community of monks who conduct daily prayers and ceremonies throughout the year. The monastery's founding in the late 19th century was itself an act of tremendous devotion and resilience, requiring construction materials to be carried on foot through mountain passes. Thangu Monastery is a deeply moving symbol of the human aspiration to maintain spiritual life in the most demanding circumstances."
+  },
+  {
+    "id": 32,
+    "name": "Kagon Tshechhogling Monastery",
+    "location": "Kagon, East Sikkim",
+    "established": "1820 A.D",
+    "imageName": "Kagon-Tshechhogling-Monastery1.png",
+    "latitude": 27.2900,
+    "longitude": 88.5700,
+    "history": "Kagon Tshechhogling Monastery, founded around 1820, is a prominent Kagyu monastery in East Sikkim whose name 'Tshechhogling' means 'Place of the Ten Directions.' This name reflects the monastery's aspiration to spread the Dharma in all directions — towards all beings across the ten cardinal directions of Buddhist cosmology. Founded during the stable middle period of the Chogyal kingdom, the monastery grew rapidly into an important centre of Kagyu learning and practice, training monks in the distinctive meditation methods of the Kagyu school. Kagon Tshechhogling is particularly known for its preservation of Kagyu ritual music, including the distinctive melodies of Milarepa — the great 11th century Kagyu master — which are chanted during special ceremonies. The monastery hosts regular Buddhist education programmes and community festivals."
+  },
+  {
+    "id": 33,
+    "name": "Ray Mindu Katenling Monastery",
+    "location": "Martam, East Sikkim",
+    "established": "1873 A.D",
+    "imageName": "Ray-Mindu-Katenling-Monastery1.png",
+    "latitude": 27.2850,
+    "longitude": 88.5550,
+    "history": "Ray Mindu Katenling Monastery, established in 1873 in the Martam area of East Sikkim, is a Nyingma monastery with a rich tradition of Buddhist scholarship and practice spanning over 150 years. The monastery was founded by a lama who had collected rare Buddhist texts during his travels in Tibet and Bhutan, establishing Ray Mindu Katenling specifically as a repository for these precious manuscripts alongside a regular centre of community worship. The monastery's name reflects its association with spiritual enlightenment — 'Katenling' denotes a place dedicated to the propagation of Buddhist teachings. Over the generations, the monastery has produced several accomplished monks who have gone on to serve as teachers and community leaders, and it has been instrumental in spreading Buddhist education in the Martam region. Its annual religious ceremonies and meditation retreats continue to attract practitioners from across East Sikkim."
+  },
+  {
+    "id": 34,
+    "name": "Phensang Monastery",
+    "location": "Phensang, North Sikkim",
+    "established": "1721 A.D",
+    "imageName": "Phensang Monastery 1.jpg",
+    "latitude": 27.2950,
+    "longitude": 88.5750,
+    "history": "Phensang Monastery, established in 1721, is one of the most important Kagyu monasteries in North Sikkim, renowned throughout the Himalayan region for its rigorous three-year retreat programme. Founded during the early Chogyal era, the monastery was built amid the lush forests of North Sikkim and has maintained an atmosphere of deep contemplative silence ever since. Phensang's three-year retreat tradition follows the classical Kagyu model in which monks enter sealed retreat cabins and engage in an intensive programme of meditation practices — including tummo (inner heat), dream yoga, and Mahamudra — without interruption for three years, three months, and three days. This programme has produced numerous accomplished meditation masters who have returned to teach across the Himalayan world. The monastery features beautifully painted woodwork, a traditional architecture blending Sikkimese and Tibetan elements, and houses sacred Buddhist texts and artifacts of great antiquity."
+  },
+  {
+    "id": 35,
+    "name": "Silem Phagyal Tashi Dargyeling Monastery",
+    "location": "Silem Phagyal, North Sikkim",
+    "established": "1967 A.D",
+    "imageName": "SILEM PHAGYAL TASHI DARGYELING MONASTERY 1.jpg",
+    "latitude": 27.8470,
+    "longitude": 88.6780,
+    "history": "Silem Phagyal Tashi Dargyeling Monastery, established in 1967, is one of the more recent additions to North Sikkim's monastic heritage, founded two years before the region began its transition toward integration with India. Its name, 'Tashi Dargyeling,' means 'Auspicious Flourishing Place of Dharma,' and the monastery has fulfilled this aspiration by becoming an important centre for Buddhist practice, education, and community spiritual life in North Sikkim. The founding lama was a teacher deeply committed to making Buddhist teachings accessible to all members of the community, not only ordained monks, and this inclusive vision has shaped the monastery's character throughout its history. The monastery is particularly active during major Buddhist festivals, when elaborate ritual programmes and community gatherings bring together practitioners from across the surrounding region. Despite its relative youth, Silem Phagyal has established itself as a significant and well-regarded institution."
+  },
+  {
+    "id": 36,
+    "name": "Phodong Karma Tashi Chokhorling Monastery",
+    "location": "Phodong, North Sikkim",
+    "established": "1734 A.D",
+    "imageName": "PHODONG KARMA TASHI CHOKHORLING MONASTERY 1.jpg",
+    "latitude": 27.4850,
+    "longitude": 88.7180,
+    "history": "Phodong Karma Tashi Chokhorling Monastery, originally established around 1740 and substantially rebuilt in 1947, is one of the six most important monasteries in Sikkim and the foremost Kagyupa monastery in the northern district. Its name, 'Tashi Chokhorling,' means 'Auspicious Dharma Wheel Place,' reflecting its identity as a centre from which the wheel of Buddhist teaching turns continuously. The monastery can accommodate approximately 260 monks and maintains an active monastic college, a three-year retreat programme, and a rich tradition of ritual arts. It is particularly famous for its annual Losar (Tibetan New Year) celebrations and Chaam masked dance festival, which draw thousands of visitors. The monastery's interior is renowned for its elaborate butter sculpture offerings (tormas), ancient thangkas, and a magnificent collection of rare Buddhist scriptures. Its classic Tibetan architecture with intricate woodwork and colourful murals makes it one of the most visually stunning monasteries in Sikkim."
+  },
+  {
+    "id": 37,
+    "name": "Singchit Ngadag Monastery",
+    "location": "Singchit, North Sikkim",
+    "established": "1890 A.D",
+    "imageName": "SINGCHIT NGADAG MONASTERY 1.jpg",
+    "latitude": 27.2400,
+    "longitude": 88.5500,
+    "history": "Singchit Ngadag Monastery, established in 1890, is a historic Kagyu monastery in the Singchit region of North Sikkim. The name 'Ngadag' refers to a local guardian deity, and the monastery was founded partly to propitiate and honour this protective presence while establishing a centre of Buddhist practice for the community. The monastery is known for its unique architectural style that blends classical Tibetan elements with local Sikkimese building traditions, creating a distinctive aesthetic that is immediately recognisable. Over more than 130 years, Singchit Ngadag has been an important repository of ancient Buddhist scriptures, sacred masks, prayer wheels, and other ceremonial objects. It plays a crucial role in preserving local Buddhist customs and hosts several annual religious festivals that bring together the entire Singchit community in shared worship and celebration."
+  },
+  {
+    "id": 38,
+    "name": "Linkoed Monastery",
+    "location": "Rhenock, East Sikkim",
+    "established": "1890 A.D",
+    "imageName": "Linkoed-Monastery1.png",
+    "latitude": 27.2450,
+    "longitude": 88.5650,
+    "history": "Linkoed Monastery, established around 1890 in the lower regions of East Sikkim near Rhenock, is a hidden gem of Buddhist heritage, situated amidst lush green forests and terraced agricultural fields that give its setting a distinctly pastoral quality. The monastery follows the Kagyu tradition and was founded by a lama who had studied at major Kagyu institutions before bringing the teachings to the Rhenock area. Over more than a century, the monastery has faithfully preserved the Kagyu Buddhist heritage of its region, maintaining ancient murals and thangkas that are considered important examples of traditional Sikkimese religious art. Linkoed plays a vital role in the spiritual life of the Rhenock area, providing regular ceremonies, teachings, and community gatherings, and its monks are known for their skill in the performance of Kagyu liturgical music."
+  },
+  {
+    "id": 39,
+    "name": "Pabyuk Monastery",
+    "location": "Pakyong, East Sikkim",
+    "established": "1875 A.D",
+    "imageName": "Pabyuk-Monastery1.png",
+    "latitude": 27.2250,
+    "longitude": 88.5750,
+    "history": "Pabyuk Monastery, founded around 1875 in the Pakyong region of East Sikkim, is a serene Kagyu monastery situated on a ridge overlooking valleys and mountain ranges that provide a spectacular natural setting for contemplative practice. Established in the late 19th century by a lama who had received teachings from senior Kagyu masters, the monastery grew steadily over the following decades into an important local institution. Pakyong's strategic location at a crossroads between Gangtok and the southern plains gave Pabyuk Monastery a role as a waystation for travelling monks, traders, and pilgrims who would stop to make offerings and receive blessings on their journeys. Today, Pabyuk Monastery continues this tradition of hospitality alongside its regular programme of meditation, study, and community worship, hosting several annual festivals that draw devotees from across East Sikkim."
+  },
+  {
+    "id": 40,
+    "name": "Tholung Monastery",
+    "location": "Tholung Valley, North Sikkim",
+    "established": "1789 A.D",
+    "imageName": "THOLUNG MONASTERY 1.jpg",
+    "latitude": 27.6500,
+    "longitude": 88.6200,
+    "history": "Tholung Monastery, established around 1765 in the mystical Tholung Valley of North Sikkim, is one of the most sacred Nyingma monasteries in the state, located in a valley identified in Tibetan Buddhist tradition as a beyul — a hidden, consecrated valley blessed by Guru Padmasambhava as a refuge for practitioners in times of turmoil. The name 'Tholung' means 'Valley of the Head,' referring to a local legend that the valley's topography resembles the shape of a horse's head. The surrounding landscape is dotted with meditation caves used by ancient masters, natural hot springs considered holy, and sacred water sources. The monastery's most celebrated festival is the Kagyed dance, performed annually by monks wearing elaborate masks and brocade costumes. Tholung Monastery serves as a gateway to numerous high-altitude pilgrimage sites in North Sikkim and is visited by practitioners seeking blessings at this profoundly consecrated location."
+  },
+  {
+    "id": 41,
+    "name": "Choten Monastery",
+    "location": "Choten, East Sikkim",
+    "established": "1845 A.D",
+    "imageName": "Choten-Monastery1.png",
+    "latitude": 27.3200,
+    "longitude": 88.5900,
+    "history": "Choten Monastery, established around 1845 in East Sikkim, takes its name from the Tibetan word 'chorten' (stupa), reflecting the presence of sacred Buddhist stupas at the site that predate the formal establishment of the monastery. The site was originally consecrated by the presence of a particularly revered chorten housing sacred relics, around which a community of monks gathered for regular prayers before the permanent monastery was built. Following the Nyingma tradition, the monastery has maintained a strong programme of monastic education and ritual practice for over 175 years. The main shrine is flanked by the sacred stupas that gave the monastery its name, and the entire complex has a deeply serene quality enhanced by its mountain setting and the presence of ancient trees within the monastery grounds. Choten Monastery is known for its collection of beautifully preserved Buddhist murals and its annual observances."
+  },
+  {
+    "id": 42,
+    "name": "Lingdum Zurmang Kharwang Gonpa Monastery",
+    "location": "Kharwang, East Sikkim",
+    "established": "1890 A.D",
+    "imageName": "Lingdum-Zurmang-Kharwang-Gonpa-Monastery1.png",
+    "latitude": 27.3100,
+    "longitude": 88.5600,
+    "history": "Lingdum Zurmang Kharwang Gonpa Monastery, established around 1890, is part of the renowned Zurmang Kagyu lineage and functions as a branch monastery of the main Lingdum Zurmang Monastery, serving the Kharwang area of East Sikkim. The Zurmang Kagyu tradition traces its roots to the great 14th-century Tibetan master Trungmase and is known for its particularly profound preservation of Kagyu meditation practices and ritual traditions. Kharwang Gonpa was established to bring these teachings to the communities of eastern East Sikkim, ensuring that residents of more remote areas had access to the Zurmang Kagyu heritage without having to travel to Ranka. The monastery maintains close ties with the main Lingdum Zurmang Monastery and sends monks for advanced training while hosting its own programme of regular practice sessions, meditation retreats, and religious ceremonies."
+  },
+  {
+    "id": 43,
+    "name": "Raloong Monastery",
+    "location": "Raloong, South Sikkim",
+    "established": "1730 A.D",
+    "imageName": "Raloong-Monastery1.png",
+    "latitude": 27.2700,
+    "longitude": 88.5400,
+    "history": "Raloong Monastery, founded around 1730, is a historic Kagyu monastery in South Sikkim that has served as a centre of Buddhist learning for nearly three centuries. One of the older Kagyu institutions in the southern district, Raloong was established during the reign of the Chogyal kings when the Kagyu school enjoyed strong royal patronage across Sikkim. The monastery's founding lama was a direct disciple of senior Kagyu masters from Tibet and established Raloong as a full-scale monastic community with a formal curriculum covering Buddhist philosophy, ritual performance, and meditative practice. Over centuries, Raloong Monastery has been particularly renowned for its tradition of sacred Cham dance performance, regarded as one of the finest in South Sikkim. The monastery also holds a significant collection of sacred relics and ancient religious artefacts that have been preserved across many generations."
+  },
+  {
+    "id": 44,
+    "name": "Sang Ngor Monastery",
+    "location": "Sang Ngor, East Sikkim",
+    "established": "1860 A.D",
+    "imageName": "Sang-Ngor-Monastery1.png",
+    "latitude": 27.2800,
+    "longitude": 88.5800,
+    "history": "Sang Ngor Monastery, established around 1860 in East Sikkim, is a peaceful Nyingma monastery known for its spiritually potent atmosphere and beautiful mountain location. The name 'Sang Ngor' refers to its location and carries associations with purity and secret sacred teachings — the 'Sang' element being connected to the concept of sacred, hidden wisdom in Tibetan Buddhist terminology. The monastery was founded by a master of the Nyingma secret mantra (Vajrayana) tradition, who identified the site as particularly suitable for advanced tantric practice. Sang Ngor has maintained a tradition of preserving Nyingma liturgical texts and offering structured meditation programmes for both monks and serious lay practitioners. The monastery's annual festivals are known for their spiritual intensity and the quality of ritual performance by its monastic community."
+  },
+  {
+    "id": 45,
+    "name": "Sichey Dechen Choling Monastery",
+    "location": "Sichey, East Sikkim",
+    "established": "1880 A.D",
+    "imageName": "Sichey-Dechen-Choling-Monastery1.png",
+    "latitude": 27.3000,
+    "longitude": 88.6100,
+    "history": "Sichey Dechen Choling Monastery, whose name 'Dechen Choling' means 'Place of Great Bliss and Dharma,' is a significant Nyingma monastery located in the Sichey area near Gangtok. Founded around 1880, the monastery was established to serve the growing Buddhist community in this area close to Sikkim's capital. The name 'Dechen Choling' invokes the pure land of Dewachen (Sukhavati), the realm of great bliss of the Buddha Amitabha, setting a profoundly aspirational tone for all activities conducted within the monastery. The monastery has maintained a strong tradition of Nyingma practice for over 140 years and is particularly noted for its beautiful monastic architecture and carefully preserved murals. Sichey Dechen Choling hosts regular Dharma teachings open to the public and is an important centre for Buddhist education in the Gangtok area."
+  },
+  {
+    "id": 46,
+    "name": "Tashi Palden Monastery",
+    "location": "Tashi Palden, East Sikkim",
+    "established": "1875 A.D",
+    "imageName": "Tashi-Palden-Monastery1.png",
+    "latitude": 27.2600,
+    "longitude": 88.5550,
+    "history": "Tashi Palden Monastery, established around 1875 in East Sikkim, is a revered Buddhist monastery whose name 'Tashi Palden' means 'Glorious Good Fortune' — a deeply auspicious designation that reflects the founders' vision of the monastery as a source of blessings and prosperity for all who come into contact with it. Founded in the later decades of the Chogyal kingdom, the monastery benefited from the patronage of local noble families and grew rapidly into a well-endowed institution with a substantial monastic community. Tashi Palden is an important pilgrimage site in East Sikkim, visited regularly by devotees who come to receive blessings at its main shrine housing the revered central image of Guru Padmasambhava. The monastery's annual festivals and meditation programmes continue to attract practitioners and pilgrims from across the region."
+  },
+  {
+    "id": 47,
+    "name": "Tinkye Gonjang Monastery",
+    "location": "Tinkye, East Sikkim",
+    "established": "1850 A.D",
+    "imageName": "Tinkye-Gonjang-Monastery1.png",
+    "latitude": 27.2750,
+    "longitude": 88.5750,
+    "history": "Tinkye Gonjang Monastery, founded around 1850 in the Tinkye region of East Sikkim, is a historic Kagyu monastery known for its significant collection of ancient thangka paintings and Buddhist ritual artefacts that represent centuries of religious artistic tradition. Established in the mid-19th century, the monastery's founding lama was a scholar-practitioner of considerable accomplishment who brought rare texts and sacred images from Tibet to enrich the monastery's spiritual heritage. The monastery follows the Kagyu tradition's emphasis on meditation alongside scholarly study, and has produced several accomplished practitioners over its 175-year history. Tinkye Gonjang is particularly known for the beauty of its traditional architecture and for the vivid thangka paintings that adorn its shrine rooms, which art historians consider among the finest examples of Sikkimese Buddhist religious art from the 19th century."
+  },
+  {
+    "id": 48,
+    "name": "Ringyim Rigdzin Tharling Monastery",
+    "location": "Ringyim, North Sikkim",
+    "established": "1852 A.D",
+    "imageName": "Comman image.jpg",
+    "latitude": 27.6500,
+    "longitude": 88.5200,
+    "history": "Ringyim Rigdzin Tharling Monastery, established in 1852 in the pristine high-altitude region of North Sikkim, is a Nyingma monastery whose name, 'Rigdzin Tharling,' means 'Liberation Isle of the Vidyadhara' — referring to the class of supremely accomplished Buddhist masters known as Vidyadharas (Awareness Holders) in the Nyingma tradition. Founded during the mid-19th century by a lama connected to the Nyingma Longchen lineage, the monastery was conceived as a place of deep meditation and the transmission of the highest Buddhist teachings. Over 170 years, it has faithfully preserved the traditions of its founding lineage, training monks in the full range of Nyingma philosophy, ritual, and meditative practice. The monastery's location in the remote reaches of North Sikkim gives it an atmosphere of profound isolation that has made it a favoured destination for serious retreat practitioners."
+  },
+  {
+    "id": 49,
+    "name": "Gor Rinchen Khando Monastery",
+    "location": "Gor, North Sikkim",
+    "established": "2002 A.D",
+    "imageName": "Comman image.jpg",
+    "latitude": 27.6800,
+    "longitude": 88.5500,
+    "history": "Gor Rinchen Khando Monastery, established in 2002 in the remote mountainous region of North Sikkim, is one of the newer monastic institutions in the northern district. Its name, 'Rinchen Khando,' meaning 'Precious Dakini,' honours the female tantric deities (dakinis) who are considered the protectors and transmitters of the highest Buddhist teachings in the Vajrayana tradition. The monastery was founded by a lama with a particular devotion to the dakini principle, establishing the institution as a place where the profound wisdom of the feminine principle in Buddhism is honoured and cultivated. Despite its remote location, Gor Rinchen Khando has attracted a dedicated community of practitioners and serves as a centre of Buddhist learning, meditation retreats, and ritual activities for the communities of the upper reaches of North Sikkim."
+  },
+  {
+    "id": 50,
+    "name": "Barphog Chhodub Dargyeling Monastery",
+    "location": "Barphog, North Sikkim",
+    "established": "1957 A.D",
+    "imageName": "Comman image.jpg",
+    "latitude": 27.7100,
+    "longitude": 88.5800,
+    "history": "Barphog Chhodub Dargyeling Monastery, established in 1957 in the high-altitude region of North Sikkim, was founded on the eve of the greatest crisis in Tibetan Buddhist history — the Chinese annexation of Tibet and the destruction of thousands of monasteries. The name 'Chhodub Dargyeling' means 'The Spreading Island of Accomplished Dharma,' and the monastery was established with a clear sense of mission to preserve Buddhist teachings that were under threat in Tibet. Founded by a lama who had extensive training in Nyingma practices, the monastery became a refuge for some of the rare texts and teaching lineages that might otherwise have been lost. Barphog Chhodub Dargyeling has maintained its commitment to the preservation and transmission of these teachings for nearly seven decades and continues to serve as an important centre of Nyingma practice in North Sikkim."
+  },
+  {
+    "id": 51,
+    "name": "Shagyong Monastery",
+    "location": "Shagyong, North Sikkim",
+    "established": "1940 A.D",
+    "imageName": "Comman image.jpg",
+    "latitude": 27.6200,
+    "longitude": 88.4800,
+    "history": "Shagyong Monastery, established in 1940, is a traditional Nyingma monastery in the serene hills of North Sikkim, founded during a period of heightened awareness among Himalayan Buddhist communities of the need to preserve their cultural and spiritual heritage. The founding lama of Shagyong was a practitioner deeply committed to the Nyingma Terma (treasure text) tradition, and the monastery was established with a particular emphasis on the study and practice of these revealed texts, which are considered to contain teachings hidden by Guru Padmasambhava for discovery by future masters at the appropriate historical moment. The monastery houses copies of many such Terma texts alongside a collection of ritual objects and thangkas. Shagyong maintains a regular schedule of monastic observances and community prayers, and continues to serve as an important spiritual centre for the North Sikkim communities in its area."
+  },
+  {
+    "id": 52,
+    "name": "Tsawang Choling Monastery",
+    "location": "Tsawang, North Sikkim",
+    "established": "1936 A.D",
+    "imageName": "Comman image.jpg",
+    "latitude": 27.6600,
+    "longitude": 88.5100,
+    "history": "Tsawang Choling Monastery, established in 1936, is a Nyingma monastery in the pristine valley of North Sikkim, founded in the same year as the nearby Tekling Dzokchen Monastery in South Sikkim — part of a broader wave of monastic founding activity during this period. The name 'Tsawang Choling' means 'Place of the Empowered Dharma,' reflecting the monastery's emphasis on preserving and transmitting tantric empowerments (wang) — ritual initiations that authorise a practitioner to engage in specific meditation practices. The founding lama was a holder of numerous Nyingma empowerment lineages and established Tsawang Choling specifically to ensure that these precious transmission lineages would continue to be available to future practitioners in North Sikkim. The monastery maintains an active calendar of empowerment ceremonies and meditation retreats."
+  },
+  {
+    "id": 53,
+    "name": "Kabi Sanga Dargyeling Monastery",
+    "location": "Kabi Sanga, North Sikkim",
+    "established": "1911 A.D",
+    "imageName": "Comman image.jpg",
+    "latitude": 27.6900,
+    "longitude": 88.5600,
+    "history": "Kabi Sanga Dargyeling Monastery, established in 1911, is located in the historically significant Kabi Sanga area of North Sikkim — a place renowned as the site of the historic blood brotherhood treaty between the Lepchas and Bhutias in the 13th century, an event of deep cultural importance to Sikkim's indigenous peoples. The monastery's name 'Dargyeling' means 'Place of Flourishing Dharma,' and it was founded with the aspiration to bring the blessings of the Buddhist teachings to bear on this already historically charged landscape. The founding Lama was a Nyingma master who saw the site as possessing both historical and spiritual significance, making it an ideal location for a permanent monastic institution. Kabi Sanga Dargyeling maintains a collection of ancient Buddhist artefacts and traditional texts, and its annual festivals are attended by community members who also celebrate their unique shared cultural heritage."
+  },
+  {
+    "id": 54,
+    "name": "Sontam Tensung Monastery",
+    "location": "Sontam, North Sikkim",
+    "established": "1884 A.D",
+    "imageName": "Comman image.jpg",
+    "latitude": 27.7200,
+    "longitude": 88.5900,
+    "history": "Sontam Tensung Monastery, established in 1884 in the high mountains of North Sikkim, is a revered Nyingma monastery whose name 'Tensung' refers to the protectors of the Buddhist teachings — the dharmapala class of deities who are invoked to guard the Buddha's Dharma from corruption and decline. The monastery was founded by a lama who had particular expertise in the practice of the dharmapalas, and the monastery's protector deity chapel (gonkhang) is considered especially powerful. Established during the late Chogyal period, Sontam Tensung has served the high-altitude communities of this remote area of North Sikkim for 140 years, providing regular ceremonies, spiritual guidance, and a place of refuge for practitioners. The monastery's location near the border areas of North Sikkim gives it a frontier quality that adds to its distinctive atmosphere."
+  },
+  {
+    "id": 55,
+    "name": "Tsungthang Monastery",
+    "location": "Tsungthang, North Sikkim",
+    "established": "1788 A.D",
+    "imageName": "Comman image.jpg",
+    "latitude": 27.6400,
+    "longitude": 88.4900,
+    "history": "Tsungthang Monastery, established around 1788 in the remote mountainous region of North Sikkim, is one of the oldest monasteries in the northern district, founded during the same era as several other important Nyingma institutions in South Sikkim. Tsungthang's location on the main route between the Sikkimese heartland and the high passes leading to Tibet gave it an important role as a spiritual waystation for traders, pilgrims, and the lamas who regularly travelled between Sikkim and Tibet before the Chinese occupation. The monastery was founded with the blessings of prominent Nyingma teachers of the era and quickly became the principal Buddhist institution of the upper Tsungthang area, conducting all major lifecycle rituals, seasonal ceremonies, and community observances for the surrounding communities. It maintains a collection of ancient religious art and manuscripts, and continues to serve as the spiritual centre of its remote valley."
+  },
+  {
+    "id": 56,
+    "name": "Tareng Gonpa Dargye Choling Monastery",
+    "location": "Tareng, North Sikkim",
+    "established": "1929 A.D",
+    "imageName": "Comman image.jpg",
+    "latitude": 27.7000,
+    "longitude": 88.5700,
+    "history": "Tareng Gonpa Dargye Choling Monastery, established in 1929, is a Nyingma monastery in the pristine wilderness of North Sikkim, founded during the interwar period when Sikkim was a British protectorate experiencing significant social and economic change. The name 'Dargye Choling' means 'Place of Flourishing and Expanding Dharma,' and the monastery was established to ensure that the expansion of Buddhism in its region would keep pace with the changes taking place in Sikkimese society. The founding lama was a practitioner of considerable repute who had completed multiple solitary retreats before taking on the responsibility of establishing a community monastery. Tareng Gonpa has maintained its mission of teaching and practice for nearly a century and is known for its peaceful environment, traditional architecture, and the quality of Buddhist education it provides to both monks and lay practitioners in North Sikkim."
+  },
+  {
+    "id": 57,
+    "name": "Martam Namdzong Monastery",
+    "location": "Martam, East Sikkim",
+    "established": "1917 A.D",
+    "imageName": "East Comman image.jpg",
+    "latitude": 27.2800,
+    "longitude": 88.4200,
+    "history": "Martam Namdzong Monastery, established in 1917 in the picturesque region of East Sikkim, is a traditional Buddhist monastery whose name 'Namdzong' means 'Sky Fortress' or 'Celestial Stronghold,' evoking the image of an impregnable refuge of spiritual power. Founded in the years of World War I, the monastery emerged from a community desire for a permanent spiritual institution that could provide stability and solace during a period of global uncertainty. The founding lama was a Nyingma master who had trained at major monasteries in Tibet and Sikkim and brought a comprehensive curriculum of Buddhist study and practice to Martam. Over more than a century, Martam Namdzong has served as an important spiritual and educational centre for the Martam community, conducting regular ceremonies, monastic training, and community spiritual guidance."
+  },
+  {
+    "id": 58,
+    "name": "Amba Mamring Monastery",
+    "location": "Amba Mamring, East Sikkim",
+    "established": "1929 A.D",
+    "imageName": "East Comman image.jpg",
+    "latitude": 27.3100,
+    "longitude": 88.4500,
+    "history": "Amba Mamring Monastery, founded in 1929, is a revered Buddhist monastery in the tranquil hills of East Sikkim that was established during a significant period of monastic renewal across the Himalayan region. The founding lama was deeply committed to ensuring that the Nyingma teachings would remain accessible to the communities of the Amba Mamring area, and established the monastery as a permanent institution for this purpose. The monastery's serene setting amidst forests and terraced fields creates a natural environment conducive to meditation and contemplation, and Amba Mamring has maintained a tradition of contemplative practice alongside its community service role. The monastery is known for its warm and welcoming approach to devotees and for its regular programme of community prayers and lifecycle ceremonies that serve the spiritual needs of surrounding villages."
+  },
+  {
+    "id": 59,
+    "name": "Radong Tensung Monastery",
+    "location": "Radong, East Sikkim",
+    "established": "1959 A.D",
+    "imageName": "East Comman image.jpg",
+    "latitude": 27.2900,
+    "longitude": 88.4800,
+    "history": "Radong Tensung Monastery, established in 1959 — the year of the Tibetan exodus — was founded at one of the most dramatic moments in Himalayan Buddhist history, when the Dalai Lama and thousands of Tibetan monks and practitioners fled to India following the Chinese military crackdown. The monastery's name 'Tensung' (Protector of the Teachings) reflects the spirit of its founding moment, as many Buddhist communities in Sikkim established new monasteries to help receive and preserve the teachings and lamas streaming in from Tibet. The monastery welcomed Tibetan refugee practitioners and incorporated some of the rare lineages they carried with them into its own tradition. This infusion of fresh teaching lineages gave Radong Tensung a particularly rich and diverse spiritual heritage. The monastery has continued to be an active centre of Buddhist practice and preservation in East Sikkim for over six decades."
+  },
+  {
+    "id": 60,
+    "name": "Bakcham Monastery",
+    "location": "Bakcham, East Sikkim",
+    "established": "1966 A.D",
+    "imageName": "East Comman image.jpg",
+    "latitude": 27.3200,
+    "longitude": 88.5100,
+    "history": "Bakcham Monastery, founded in 1966 — the same year the present Rumtek Monastery was inaugurated by the 16th Karmapa — is a Buddhist monastery in the beautiful valleys of East Sikkim that emerged during a period of significant monastic development in the state. The founding of Bakcham Monastery reflected the growing confidence of Sikkim's Buddhist communities as they worked to strengthen and expand their monastic network. The monastery follows the Nyingma tradition and was established by a lama who had received comprehensive training in Nyingma philosophy, ritual, and meditation before returning to East Sikkim to establish a permanent teaching centre. Bakcham is known for its peaceful environment, traditional Tibetan architectural style, and its role as a spiritual refuge for monks and devotees from the surrounding villages. The monastery maintains an active programme of daily prayers, seasonal festivals, and monastic education."
+  },
+  {
+    "id": 61,
+    "name": "Taktse Ani Gonpa Ugen Chokhorling Monastery",
+    "location": "Taktse, East Sikkim",
+    "established": "1980 A.D",
+    "imageName": "East Comman image.jpg",
+    "latitude": 27.2700,
+    "longitude": 88.4600,
+    "history": "Taktse Ani Gonpa Ugen Chokhorling Monastery, established in 1980, is a distinctive Buddhist nunnery (ani gonpa) in East Sikkim — one of the relatively rare monastic institutions dedicated to female practitioners in the region. Its name 'Ugen Chokhorling' invokes Uddiyana (Ugen), the mythical birthplace of Guru Padmasambhava, as a symbol of the origin of the highest teachings. Founded to provide a formal monastic institution for women committed to Buddhist practice, the nunnery offers full monastic training in Nyingma philosophy, ritual, and meditation for nuns, and has played an important role in raising the status of female practitioners in Sikkimese Buddhist culture. The monastery is known for its commitment to women's Buddhist education and for providing a supportive community environment for nuns seeking a life of dedicated spiritual practice."
+  },
+  {
+    "id": 62,
+    "name": "Khatek Pema Choling Monastery",
+    "location": "Khatek, East Sikkim",
+    "established": "1985 A.D",
+    "imageName": "East Comman image.jpg",
+    "latitude": 27.3300,
+    "longitude": 88.4900,
+    "history": "Khatek Pema Choling Monastery, founded in 1985, is a Nyingma monastery in East Sikkim whose name 'Pema Choling' means 'Lotus Dharma Place' — invoking the lotus, the most sacred flower of Buddhism, as a symbol of purity, spiritual unfolding, and the teachings of the Dharma that arise immaculate from the muddy waters of samsara. The monastery was established during the decade following Sikkim's integration into India, as Buddhist communities worked to consolidate and strengthen their religious institutions in the new political environment. The founding lama chose the name 'Pema Choling' as an aspiration that the monastery would always be a place of pure Dharma, unsullied by worldly concerns. Khatek Pema Choling has maintained this aspiration over four decades, offering regular teachings, retreats, and community ceremonies in a spiritually clean and harmonious environment."
+  },
+  {
+    "id": 63,
+    "name": "Taglung Domsumling Monastery",
+    "location": "Taglung, East Sikkim",
+    "established": "1987 A.D",
+    "imageName": "East Comman image.jpg",
+    "latitude": 27.2600,
+    "longitude": 88.5200,
+    "history": "Taglung Domsumling Monastery, established in 1987 in the scenic region of East Sikkim, is a Nyingma monastery whose name 'Domsumling' refers to the Three Vows — the Pratimoksha vow of individual liberation, the Bodhisattva vow of universal compassion, and the Samaya vow of tantric commitment — which form the complete ethical and spiritual framework of Vajrayana Buddhist practice. The monastery was founded with the aspiration that all of its activities would be guided by these three vows, creating an institution of impeccable ethical integrity and genuine spiritual practice. Established during the late 1980s, the monastery has built a strong reputation for combining scholarly study with meditation practice in a balanced way that reflects the founding lama's vision of comprehensive Buddhist training. Taglung Domsumling maintains an active programme of teachings, retreats, and community service."
+  },
+  {
+    "id": 64,
+    "name": "Dolepchen Boudha Sanskrit Monastery",
+    "location": "Dolepchen, East Sikkim",
+    "established": "1991 A.D",
+    "imageName": "East Comman image.jpg",
+    "latitude": 27.3400,
+    "longitude": 88.4400,
+    "history": "Dolepchen Boudha Sanskrit Monastery, founded in 1991, is a unique and academically distinctive Buddhist institution in East Sikkim that sets itself apart through its emphasis on Sanskrit studies alongside traditional Buddhist practice. Sanskrit — the sacred language of classical Indian Buddhism and the vehicle of the original Buddhist canonical texts — is a subject that has become increasingly rare in monastic curricula, and Dolepchen Boudha Sanskrit Monastery has dedicated itself to its preservation and teaching. The monastery houses an extensive collection of Sanskrit manuscripts and texts including Prajnaparamita (Perfection of Wisdom) sutras, Sanskrit grammars, and Buddhist philosophical treatises in the original language. Monks trained at Dolepchen are equipped to read and interpret Buddhist texts in Sanskrit directly, providing a critical link to the original Indian Buddhist heritage that is invaluable for scholarship and for the correct interpretation of the Dharma."
+  },
+  {
+    "id": 65,
+    "name": "Singtam Gonpa Karma Thuje Choling Monastery",
+    "location": "Singtam, East Sikkim",
+    "established": "1992 A.D",
+    "imageName": "East Comman image.jpg",
+    "latitude": 27.2500,
+    "longitude": 88.4700,
+    "history": "Singtam Gonpa Karma Thuje Choling Monastery, established in 1992 in the bustling town of Singtam, is a vibrant Karma Kagyu monastery that serves as an important urban Buddhist centre in East Sikkim. Its name 'Karma Thuje Choling' means 'Place of the Karma (Kagyu) Compassion Dharma,' reflecting the Kagyu tradition's particular emphasis on compassion as the foundation of all spiritual practice. Located in one of East Sikkim's main commercial towns, the monastery has developed a particularly active lay community programme that brings Buddhist teachings to urban practitioners who may not have easy access to rural monasteries. Singtam Gonpa is known for its strong community outreach, its observance of the full range of Kagyu festivals and ceremonies, and its role as a centre of Buddhist cultural life for the diverse and busy Singtam community."
+  },
+  {
+    "id": 66,
+    "name": "Burtuk Ugen Pema Choling Tamu Monastery",
+    "location": "Burtuk, East Sikkim",
+    "established": "2000 A.D",
+    "imageName": "East Comman image.jpg",
+    "latitude": 27.3500,
+    "longitude": 88.5000,
+    "history": "Burtuk Ugen Pema Choling Tamu Monastery, founded in 2000, is a modern Buddhist monastery in East Sikkim that serves the Tamu (Gurung) community of the Burtuk area. The Tamu people are one of the indigenous communities of the Sikkim-Nepal-Himalayan region with a deep-rooted tradition of Tibetan Buddhist practice, and this monastery was established to provide a permanent institutional home for that heritage. The name 'Ugen Pema Choling' honours Uddiyana, the birthplace of Guru Padmasambhava ('Lotus Born'), and identifies the monastery as a place where the most precious teachings of the Nyingma tradition are preserved and shared. The monastery maintains a particular commitment to serving the Tamu community, preserving Tamu Buddhist cultural practices alongside the mainstream Nyingma tradition, and has become an important centre for Tamu cultural identity in East Sikkim."
+  },
+  {
+    "id": 67,
+    "name": "Duchi Gyalon Monastery",
+    "location": "Duchi, East Sikkim",
+    "established": "2002 A.D",
+    "imageName": "East Comman image.jpg",
+    "latitude": 27.2400,
+    "longitude": 88.4300,
+    "history": "Duchi Gyalon Monastery, established in 2002, is one of the newer Buddhist monasteries in East Sikkim, founded in the early years of the 21st century with a commitment to making the Buddhist teachings relevant and accessible to a new generation of practitioners. The name 'Gyalon' carries associations with royalty and spiritual sovereignty, reflecting the founding lama's aspiration that those who practice at the monastery will cultivate the inner sovereignty of a fully awakened mind. Despite its recent founding, Duchi Gyalon has quickly established itself as an active and engaged community, hosting regular meditation sessions, Dharma classes in the Nepali language, and community festivals that draw participants from the surrounding area. The monastery is particularly noted for its youth outreach programme, designed to introduce young people to Buddhist philosophy and meditation practice."
+  },
+  {
+    "id": 68,
+    "name": "Bongyong Ani Gonpa Rinak Monastery",
+    "location": "Bongyong, East Sikkim",
+    "established": "2005 A.D",
+    "imageName": "East Comman image.jpg",
+    "latitude": 27.3600,
+    "longitude": 88.4800,
+    "history": "Bongyong Ani Gonpa Rinak Monastery, founded in 2005, is a contemporary Buddhist nunnery in East Sikkim dedicated to providing formal monastic training and a supportive community for female practitioners. The name 'Rinak' refers to a powerful mountain deity, invoking protective energy for the nunnery and its residents. Established as part of the growing recognition of the importance of women's Buddhist education in Sikkim, the nunnery offers full training in Nyingma Buddhist philosophy, ritual performance, and meditation practice for nuns. Bongyong Ani Gonpa is known for its inclusive and supportive community environment, modern facilities designed for comfortable monastic living, and its programme of outreach to lay women seeking to deepen their Buddhist practice without taking full ordination. The nunnery represents an important contribution to gender equality in Sikkimese Buddhist institutional life."
+  },
+  {
+    "id": 69,
+    "name": "Simig Monastery",
+    "location": "Simig, East Sikkim",
+    "established": "1843 A.D",
+    "imageName": "East Comman image.jpg",
+    "latitude": 27.2300,
+    "longitude": 88.5300,
+    "history": "Simig Monastery, established in 1843, is one of the oldest Buddhist monasteries in East Sikkim, with a rich heritage spanning over 180 years. Founded during the stable middle period of the Chogyal kingdom, the monastery was established by a Nyingma lama who had studied in Tibet and returned to East Sikkim to create a permanent centre for the Dharma in the Simig area. The monastery's age makes it a living repository of Buddhist history in East Sikkim, and its collection of ancient manuscripts, religious artefacts, and murals represents an irreplaceable cultural legacy. Over nearly two centuries, Simig Monastery has maintained an unbroken tradition of daily prayers and seasonal observances, serving as the spiritual backbone of its community through the dramatic political and social changes that have transformed Sikkim from a kingdom to an Indian state. It remains an important pilgrimage site for devotees across the region."
+  },
+  {
+    "id": 70,
+    "name": "Pathing Matsang Monastery",
+    "location": "Pathing, East Sikkim",
+    "established": "1860 A.D",
+    "imageName": "East Comman image.jpg",
+    "latitude": 27.2200,
+    "longitude": 88.4100,
+    "history": "Pathing Matsang Monastery, founded in 1860 in the traditional region of East Sikkim, is a historic Buddhist monastery that has served as a centre of Buddhist practice and cultural preservation for over 160 years. The name 'Matsang' carries associations with the 'Matsang' class of Tibetan Buddhist masters and the power of their meditative attainments. The monastery was established by a lama trained in both the scholarly and meditative traditions of Tibetan Buddhism, and the dual emphasis on learning and practice has characterised the monastery throughout its history. Pathing Matsang houses a valued collection of traditional Tibetan Buddhist religious artefacts and maintains a tradition of classical Nyingma liturgical performance. The monastery continues to provide spiritual guidance and community ceremonies for the Pathing area and maintains the traditional Tibetan architectural style of its original structure."
+  },
+  {
+    "id": 71,
+    "name": "Tsangek Monastery",
+    "location": "Tsangek, East Sikkim",
+    "established": "1888 A.D",
+    "imageName": "East Comman image.jpg",
+    "latitude": 27.3700,
+    "longitude": 88.5100,
+    "history": "Tsangek Monastery, established in 1888 in the peaceful valleys of East Sikkim, is a venerable Nyingma monastery with over 135 years of continuous service to the Buddhist community. Founded during the late Chogyal era, the monastery was built on land donated by a prominent local family who wished to create a permanent spiritual institution for the Tsangek community. The founding lama was a practitioner of considerable accomplishment who established the monastery with a clear vision of it serving as both a centre of learning and a place of active community worship. Tsangek Monastery is known for maintaining a rich calendar of ritual observances throughout the Tibetan Buddhist year, ensuring that all major festivals, seasonal ceremonies, and special prayer days are celebrated with full traditional observance. The monastery's ancient scriptures and artefacts are considered important contributions to East Sikkim's Buddhist heritage."
+  },
+  {
+    "id": 72,
+    "name": "Sang Monastery",
+    "location": "Sang, East Sikkim",
+    "established": "1912 A.D",
+    "imageName": "East Comman image.jpg",
+    "latitude": 27.2100,
+    "longitude": 88.4600,
+    "history": "Sang Monastery, founded in 1912, is a traditional Nyingma monastery in East Sikkim that was established in the early years of the 20th century, during a period when Sikkim was a British protectorate navigating significant social and political changes. The name 'Sang' carries associations with the concept of 'secret' or 'sacred' in Tibetan — connected to the Vajrayana (tantric) dimension of Buddhist practice — and the monastery was established with a particular emphasis on the preservation of Nyingma tantric practices and lineages. The founding lama was a holder of numerous Nyingma empowerment lineages who sought to ensure the continuation of these rare transmissions in East Sikkim. Over more than a century, Sang Monastery has maintained this tradition of tantric practice alongside its regular schedule of community ceremonies, making it an important centre of Nyingma Vajrayana practice in the region."
+  },
+  {
+    "id": 73,
+    "name": "Sumon Thubten Gatsalling Monastery",
+    "location": "Sumon, East Sikkim",
+    "established": "1924 A.D",
+    "imageName": "East Comman image.jpg",
+    "latitude": 27.3800,
+    "longitude": 88.4500,
+    "history": "Sumon Thubten Gatsalling Monastery, established in 1924, is a significant Nyingma monastery in East Sikkim whose name 'Thubten Gatsalling' means 'The Joyful and Flourishing Island of Thubten (Shakyamuni).' The name pays homage to Shakyamuni Buddha — Thubten being an honorary epithet of the historical Buddha — and invokes the aspiration that the monastery will be a place of genuine spiritual joy and the flourishing of the Buddhist teachings in their totality. Founded in the interwar period, the monastery quickly became an important centre for Buddhist education and religious life in the Sumon area of East Sikkim. Sumon Thubten Gatsalling is particularly known for its commitment to Buddhist education, maintaining a curriculum that covers Buddhist philosophy, Tibetan language, ritual arts, and meditative practice, and for its valuable collection of religious texts and artefacts."
+  },
+  {
+    "id": 74,
+    "name": "Martam Tsangkhar Monastery",
+    "location": "Martam Tsangkhar, East Sikkim",
+    "established": "1951 A.D",
+    "imageName": "East Comman image.jpg",
+    "latitude": 27.2800,
+    "longitude": 88.5200,
+    "history": "Martam Tsangkhar Monastery, founded in 1951 in the historic Martam region of East Sikkim, was established in the early post-independence era of India — a time when Sikkim was still an independent protectorate state navigating its relationship with the newly independent Indian Union. The name 'Tsangkhar' means 'White House,' echoing the name of Lingdok Tsangkhar Monastery and reflecting a tradition of whitewashed Tibetan Buddhist monastery architecture in East Sikkim. The founding lama of Martam Tsangkhar was committed to building an institution that would serve both the immediate spiritual needs of the Martam community and the longer-term goal of preserving Buddhist heritage in the region. The monastery has maintained an active programme of community service, monastic education, and spiritual guidance for over seven decades and is known for its thoughtful adaptation of traditional Buddhist practices to contemporary community needs."
+  },
+  {
+    "id": 75,
+    "name": "Tingbung Monastery",
+    "location": "Tingbung, North Sikkim",
+    "established": "1843 A.D",
+    "imageName": "TINGBUNG MONASTERY 1.jpg",
+    "latitude": 27.9120,
+    "longitude": 88.5340,
+    "history": "Tingbung Monastery, established in 1843, is one of the oldest monasteries in North Sikkim, founded in the same year as Simig Monastery in East Sikkim — part of a broader expansion of monastic institutions across Sikkim during the 1840s. Located in a remote and pristine area of North Sikkim, the monastery has served the local community for over 180 years, maintaining Nyingma Buddhist traditions in one of the most isolated corners of the state. The monastery's longevity is a testament to the deep devotion of the communities it serves, who have sustained it through earthquakes, political upheavals, and the challenges of maintaining a monastic institution in a remote high-altitude environment. Tingbung's main shrine houses ancient images and ritual objects that have been venerated by generations of devotees, and the monastery's collection of manuscripts includes texts that are increasingly rare in the broader Tibetan Buddhist world."
+  },
+  {
+    "id": 76,
+    "name": "Labrang Monastery",
+    "location": "Labrang, North Sikkim",
+    "established": "1844 A.D",
+    "imageName": "LABRANG MONASTEY 1.jpg",
+    "latitude": 27.8950,
+    "longitude": 88.5180,
+    "history": "Labrang Monastery, founded in 1844, takes its name from the Tibetan word 'labrang' — which refers to the residence and estate of a high lama (tulku) — indicating that the monastery was originally established as the seat of a recognised reincarnate lama who served as both spiritual teacher and community leader. The monastery has maintained this tradition of providing spiritual leadership to its region across nearly two centuries, and has been the seat of successive recognised lamas who have guided the North Sikkim Buddhist community through periods of stability and change. The monastery houses valuable Buddhist scriptures and artefacts, including what is believed to be the original residential furniture and personal ritual objects of the founding lama. Labrang continues to serve as an important centre of meditation, learning, and community spiritual life in North Sikkim, drawing pilgrims and practitioners from across the region."
+  },
+  {
+    "id": 77,
+    "name": "Lachung Samten Choling Monastery",
+    "location": "Lachung, North Sikkim",
+    "established": "1850 A.D",
+    "imageName": "Comman image.jpg",
+    "latitude": 27.9380,
+    "longitude": 88.7420,
+    "history": "Lachung Samten Choling Monastery, established in 1850, is a significant Buddhist monastery in the picturesque high-altitude town of Lachung in North Sikkim, situated amidst breathtaking Himalayan scenery at the gateway to the famous Yumthang Valley. The monastery's name 'Samten Choling' means 'Place of Peaceful Meditation and Dharma,' a perfectly apt designation for a monastery in one of the most serene and beautiful Himalayan settings imaginable. The monastery serves as the spiritual centre for the Lachung community, whose members — like their counterparts in Lachen — have maintained a unique system of self-governance (dzumsa) for centuries. Lachung Samten Choling has been the guardian of this community's Buddhist heritage for over 170 years, conducting all major religious observances, monastic training, and community ceremonies. The monastery's combination of natural splendour and spiritual depth makes it a profoundly memorable destination for all who visit."
+  },
+  {
+    "id": 78,
+    "name": "Lingthem Gonpa Chophel Dargyeling",
+    "location": "Lingthem, North Sikkim",
+    "established": "1857 A.D",
+    "imageName": "LINGTHEM GONPA CHOPHEL DARGYELING 1.jpg",
+    "latitude": 27.8760,
+    "longitude": 88.4890,
+    "history": "Lingthem Gonpa Chophel Dargyeling, founded in 1857 in North Sikkim, is a revered Nyingma monastery whose name, 'Chophel Dargyeling,' means 'Island of Dharma Propagation and Flourishing' — a name that perfectly encapsulates the monastery's mission to spread the Dharma and ensure its flourishing across generations. Established during the mid-Chogyal era, the monastery quickly became the spiritual heart of the Lingthem community and has maintained its position of importance for over 165 years. The monastery is known for the exceptional quality of its monastic education, producing graduates who have gone on to serve as teachers and community leaders across North Sikkim. Lingthem Gonpa maintains an especially strong tradition of Nyingma ritual music and sacred dance, with its annual cham festival considered one of the most authentic and visually spectacular in North Sikkim."
+  },
+  {
+    "id": 79,
+    "name": "Ship Kunzang Choling Monastery",
+    "location": "Ship, North Sikkim",
+    "established": "1900 A.D",
+    "imageName": "Comman image.jpg",
+    "latitude": 27.8640,
+    "longitude": 88.5670,
+    "history": "Ship Kunzang Choling Monastery, established in 1900, is a Nyingma monastery in North Sikkim whose name 'Kunzang Choling' means 'Place of Samantabhadra's Dharma' — invoking Samantabhadra, the primordial Buddha of the Nyingma tradition who represents the absolute ground of all reality and the source of all Buddhist teachings. The monastery was established at the turn of the 20th century by a lama who was a practitioner of the Dzogchen (Great Perfection) tradition associated with Samantabhadra, and who wished to create a monastery that would honour this highest teaching of the Nyingma school. Ship Kunzang Choling has maintained a strong tradition of Dzogchen practice and teaching for 125 years and has produced several recognised practitioners of this profound contemplative tradition. The monastery continues to offer teachings and retreats focused on the Dzogchen practices of the Nyingma lineage."
+  },
+  {
+    "id": 80,
+    "name": "Hee Gyathang Monastery",
+    "location": "Hee Gyathang, North Sikkim",
+    "established": "1914 A.D",
+    "imageName": "Comman image.jpg",
+    "latitude": 27.9010,
+    "longitude": 88.6230,
+    "history": "Hee Gyathang Monastery, founded in 1914, is a significant early 20th century Nyingma monastery in North Sikkim, established during the years of World War I when the world was experiencing unprecedented upheaval. Amid this global turmoil, the founding lama's decision to establish the monastery was an affirmation of the enduring importance of the Buddhist teachings as a source of peace and wisdom in times of suffering and confusion. The monastery was built in the Gyathang area of North Sikkim with the support of local Buddhist families and quickly became an important religious and community institution. Hee Gyathang has maintained its role as a guardian of Buddhist traditions and community well-being for over 110 years, conducting regular ceremonies, providing spiritual education for monks, and hosting major festivals that bring the community together in shared practice and celebration."
+  },
+  {
+    "id": 81,
+    "name": "Malam Monastery",
+    "location": "Malam, North Sikkim",
+    "established": "1928 A.D",
+    "imageName": "Comman image.jpg",
+    "latitude": 27.8580,
+    "longitude": 88.5920,
+    "history": "Malam Monastery, established in 1928, is a Nyingma monastery in North Sikkim founded in the interwar period between the two World Wars, during which Sikkim remained a protected state under British India while maintaining its distinctive Buddhist cultural identity. The founding lama was a practitioner who had received comprehensive Nyingma training and sought to create a permanent institutional home for those teachings in the Malam area. The monastery was built through community effort and has maintained a close relationship with the surrounding villages throughout its nearly century-long existence. Malam Monastery is known for its disciplined monastic schedule, its role as a centre for community ceremonies, and its preservation of traditional Nyingma liturgical texts and practice manuals that provide the foundation for all its ritual activities. The monastery maintains a calm and concentrated atmosphere well-suited to both monastic life and lay meditation practice."
+  },
+  {
+    "id": 82,
+    "name": "Nage Ugen Sandolingling Monastery",
+    "location": "Nage, North Sikkim",
+    "established": "1937 A.D",
+    "imageName": "Comman image.jpg",
+    "latitude": 27.8820,
+    "longitude": 88.4560,
+    "history": "Nage Ugen Sandolingling Monastery, founded in 1937, is a Nyingma monastery in North Sikkim whose name 'Ugen Sandolingling' combines a reference to Uddiyana (birthplace of Guru Padmasambhava), the Sanskrit 'sandol' (sandalwood — symbolising the purifying fragrance of the Dharma), and 'ling' (island or place). The name thus evokes a fragrant island of Dharma imbued with the blessings of Guru Padmasambhava. Established just two years before the outbreak of World War II, the monastery was founded with a clear sense of purpose: to create a permanent centre of Buddhist practice that could provide stability and spiritual nourishment to its community through whatever challenges the future might bring. Nage Ugen Sandolingling has fulfilled this aspiration for nearly 90 years, maintaining an active and vibrant monastic life and serving as an important spiritual centre in North Sikkim."
+  },
+  {
+    "id": 83,
+    "name": "Serdup Choling Monastery",
+    "location": "South Sikkim",
+    "established": "1967 A.D",
+    "imageName": "Serdup-Choling-Monastery1.png",
+    "imageName2": "Serdup-Choling-Monastery2.png",
+    "imageName3": "Serdup-Choling-Monastery3.png",
+    "latitude": 27.2300,
+    "longitude": 88.4200,
+    "history": "Serdup Choling Monastery, established in 1967, is a respected Nyingma monastery in South Sikkim whose name 'Serdup Choling' means 'Golden Accomplishment Dharma Place' — reflecting the aspiration that all who engage in Buddhist practice here will attain golden accomplishments of wisdom and compassion. Founded two years after Sikkim became formally associated with the Indian government as a protected state, the monastery emerged as the Buddhist community reoriented itself to new political realities while maintaining its ancient spiritual traditions. The founding lama was a practitioner of considerable reputation who created both a centre of monastic learning and an active hub of community religious life. Serdup Choling is known for its peaceful environment, beautiful traditional architecture, and a lively annual festival calendar. The monastery continues to conduct regular meditation retreats and offers Buddhist teachings to the broader community of South Sikkim."
+  },
+  {
+    "id": 84,
+    "name": "Kewzing Tashi Gyephelling Monastery",
+    "location": "Kewzing, South Sikkim",
+    "established": "1974 A.D",
+    "imageName": "Kewzing-Monastery1.png",
+    "imageName2": "Kewzing-Monastery2.png",
+    "imageName3": "Kewzing-Monastery3.png",
+    "latitude": 27.2300,
+    "longitude": 88.4200,
+    "history": "Kewzing Tashi Gyephelling Monastery, founded in 1974 — the year before Sikkim's integration into India — is a prominent Kagyu monastery in Kewzing, South Sikkim, established at a historically charged moment when the Sikkimese Buddhist community was facing unprecedented political change. The name 'Tashi Gyephelling' means 'Auspicious and Glorious Spreading Place,' and the monastery was founded with the aspiration of ensuring that the Dharma would continue to spread and flourish in South Sikkim regardless of the political transformations taking place. Located near the Borong area, the monastery has developed a vibrant community with strong traditions of meditation practice, monastic education, and community service. Kewzing is a destination known for its tranquil beauty, and the monastery complements this natural serenity with its spiritual offerings of teachings, ceremonies, and meditation retreats that draw practitioners from across South Sikkim and beyond."
+  },
+  {
+    "id": 85,
+    "name": "Bon Monastery",
+    "location": "South Sikkim",
+    "established": "1980 A.D",
+    "imageName": "Bon-Monastery1.png",
+    "imageName2": "Bon-Monastery2.png",
+    "imageName3": "Bon-Monastery3.png",
+    "latitude": 27.2300,
+    "longitude": 88.4200,
+    "history": "Bon Monastery, established in 1980 in South Sikkim, is one of the very few monastic institutions in Sikkim dedicated to the Bon religion — the indigenous spiritual tradition of Tibet that predates the introduction of Buddhism and is the oldest living spiritual tradition of the Himalayan region. The Bon tradition, while sharing many external similarities with Tibetan Buddhism, has its own distinctive canon of scriptures, pantheon of deities, meditation practices, and ritual traditions that trace their origins to the legendary figure of Tonpa Shenrab Miwoche. This monastery represents a unique and precious element of Sikkim's religious diversity, preserving Bon practices that exist alongside the Buddhist traditions of the region. The monastery is visited by practitioners and scholars interested in the Bon spiritual heritage, and its festivals — which follow the Bon religious calendar — offer a window into this ancient and distinctive Himalayan tradition."
+  },
+  {
+    "id": 86,
+    "name": "Burmiok Norbugang Monastery",
+    "location": "Burmiok, South Sikkim",
+    "established": "1992 A.D",
+    "imageName": "Burmiok-Norbugang-Monastery1.png",
+    "imageName2": "Burmiok-Norbugang-Monastery2.png",
+    "imageName3": "Burmiok-Norbugang-Monastery3.png",
+    "latitude": 27.2300,
+    "longitude": 88.4200,
+    "history": "Burmiok Norbugang Monastery, founded in 1992, is a modern Nyingma monastery in the Burmiok area of South Sikkim, established as a companion institution to the older Burmiok Wosel Choling Monastery in the same village. The name 'Norbugang' means 'Heap of Precious Jewels,' evoking the image of the monastery as a treasury overflowing with the precious jewels of Buddhist wisdom, compassion, and spiritual attainment. Established in the post-integration era of Sikkim, the monastery was founded to serve the growing spiritual needs of a community that had expanded significantly in the decades following 1975. Burmiok Norbugang maintains a contemporary approach to Buddhist community engagement, combining traditional Nyingma ritual practice with modern educational programmes, youth outreach, and environmental activities inspired by the Buddhist principle of interdependence and care for all beings. The monastery has quickly become an important community centre in Burmiok."
+  },
+  {
+    "id": 87,
+    "name": "Ralong Palchen Choling Monastery",
+    "location": "Ralong, South Sikkim",
+    "established": "1995 A.D",
+    "imageName": "Ralong-Palchen-Choling-Monastery1.png",
+    "imageName2": "Ralong-Palchen-Choling-Monastery2.png",
+    "imageName3": "Ralong-Palchen-Choling-Monastery3.png",
+    "latitude": 27.2833,
+    "longitude": 88.5500,
+    "history": "Ralong Palchen Choling Monastery, established in 1995 as the New Ralang Monastery, is one of the most architecturally impressive and spiritually vibrant Buddhist institutions in South Sikkim, and indeed in all of Sikkim. The name 'Palchen Choling' means 'Great Glorious Dharma Place,' and the monastery is grand in every sense — its main temple rises four storeys, crowned with a gleaming golden roof, and houses a magnificent 35-foot statue of Guru Padmasambhava that is one of the tallest such statues in Sikkim. The monastery was established by the same Kagyu lineage that built the original Ralang Monastery in 1730, ensuring the continuation of nearly three centuries of Karma Kagyu tradition in the Ralong area. Ralong Palchen Choling is famous for its spectacular festivals — particularly the Pang Lhabsol celebration in which the sacred mountains of Sikkim are honoured as protector deities — and for its monastic college, where monks receive comprehensive training in Kagyu Buddhist philosophy and practice."
+  },
+  {
+    "id": 88,
+    "name": "Namtse Nga-dag Monastery",
+    "location": "South Sikkim",
+    "established": "1684 A.D",
+    "imageName": "South Comman image.jpg",
+    "latitude": 27.2300,
+    "longitude": 88.4200,
+    "history": "Namtse Nga-dag Monastery, established in 1684, is one of the oldest monasteries in South Sikkim, founded during the reign of the early Chogyal kings as a centre of Nyingma Buddhist practice. The name 'Namtse Nga-dag' translates roughly as 'Lord of the Celestial Heights,' reflecting its elevated spiritual status in the community. Founded by lamas who travelled from Tibet carrying ancient scriptures, sacred relics, and the blessings of Nyingma lineage masters, the monastery has weathered over three centuries of political upheaval and natural calamity while remaining a steadfast beacon of Buddhist faith. Its prayer hall houses rare thangka paintings, hand-carved wooden altars, and centuries-old butter lamps. The monks are trained in classical Tibetan rituals including the sacred cham dances performed during Losar and Saga Dawa. The monastery is also a repository of ancient manuscripts, many dating to its founding era, and continues as a living centre of Nyingma spirituality."
+  },
+  {
+    "id": 89,
+    "name": "Yangang Gonpa Tashi Palding Gon",
+    "location": "Yangang, South Sikkim",
+    "established": "1787 A.D",
+    "imageName": "South Comman image.jpg",
+    "latitude": 27.2300,
+    "longitude": 88.4200,
+    "history": "Yangang Gonpa Tashi Palding Gon, founded in 1787 in the village of Yangang, South Sikkim, is a monastery of considerable historical and spiritual importance. The name 'Tashi Palding Gon' translates as 'The Monastery of Auspicious and Glorious Ground,' reflecting the sacred nature attributed to the site by its Nyingma founders. Built during a period of political consolidation in Sikkim, the monastery was quickly established as the spiritual heart of the Yangang community. The founding lamas performed elaborate consecration rituals, burying sacred treasures (terma) beneath the foundation stones for the monastery's spiritual protection. The interior assembly hall features remarkable frescoes depicting Guru Padmasambhava, Amitabha Buddha, and the Eight Manifestations of the Guru, painted in traditional mineral pigments that remain vivid to this day. Over the generations, the monastery has nurtured a lineage of accomplished monks, including several recognised as reincarnate lamas (tulkus). It remains deeply involved in the religious and cultural life of Yangang."
+  },
+  {
+    "id": 90,
+    "name": "Mangbro Monastery",
+    "location": "South Sikkim",
+    "established": "1790 A.D",
+    "imageName": "South Comman image.jpg",
+    "latitude": 27.2300,
+    "longitude": 88.4200,
+    "history": "Mangbro Monastery, established in 1790, is a traditional Nyingma monastery in South Sikkim, founded in the late 18th century when Buddhism was firmly established as the state religion of Sikkim and monastic institutions enjoyed royal patronage. The founding Nyingma lama identified the site as geomantically auspicious — a place where natural elements were in perfect harmony for sustained meditation and spiritual practice. The name 'Mangbro' is associated with concepts of abundance and prosperity, reflecting the monastery's role as a source of spiritual wealth for the community. The main shrine houses a magnificent statue of Guru Padmasambhava flanked by his two consorts, Yeshe Tsogyal and Mandarava, considered the spiritual guardian of the community. Mangbro has been particularly noted as a centre for the practice of Dzogchen — the Great Perfection — a highly advanced meditation practice unique to the Nyingma school. Pilgrims continue to visit in large numbers during Losar, Saga Dawa, and Guru Rinpoche's anniversary."
+  },
+  {
+    "id": 91,
+    "name": "Linge Phagyal Monastery",
+    "location": "South Sikkim",
+    "established": "1862 A.D",
+    "imageName": "South Comman image.jpg",
+    "latitude": 27.2300,
+    "longitude": 88.4200,
+    "history": "Linge Phagyal Monastery, founded in 1862 in South Sikkim, was established by a Nyingma lama who had received extensive training in Buddhist philosophy and ritual practice in Tibet before returning to Sikkim to establish a centre of learning and worship. The name 'Linge Phagyal' carries deep spiritual significance — 'Phagyal' refers to the victorious and exalted nature of the Buddhist teachings, suggesting a monastery that rises triumphant like a sacred peak. From its early years, the monastery distinguished itself as a centre for Buddhist education, offering training in philosophy, ritual performance, thangka painting, and traditional medicine. Its curriculum was modelled on the great monastic universities of Tibet. The monastery's inner walls are decorated with exquisite murals depicting the entire cosmology of the Buddhist universe, and among its most cherished possessions is a collection of sacred relics brought from Tibet by its founder, enshrined in a golden chorten at the heart of the main shrine room."
+  },
+  {
+    "id": 92,
+    "name": "Burmiok Wosel Choling Monastery",
+    "location": "Burmiok, South Sikkim",
+    "established": "1873 A.D",
+    "imageName": "South Comman image.jpg",
+    "latitude": 27.2300,
+    "longitude": 88.4200,
+    "history": "Burmiok Wosel Choling Monastery, established in 1873, is a community-centred Nyingma monastery in Burmiok, South Sikkim, whose name 'Wosel Choling' means 'The Place of Clear Light Dharma' — reflecting dedication to the highest Nyingma teachings on luminous awareness. The founding lama was known for making profound Buddhist teachings accessible to ordinary farmers, traders, and families, not just ordained monks, giving the monastery a warm and inclusive character that has persisted to this day. The monastery was built on land donated by a prominent local family through community effort, and the main shrine houses elaborate altar arrangements with gilded statues of Amitabha Buddha, Guru Padmasambhava, and the Medicine Buddha. The monastery established a school for local children in its premises during the early 20th century and continues to support education and community development. Its annual cham festival is one of the most beloved cultural events in the Burmiok area."
+  },
+  {
+    "id": 93,
+    "name": "Ben Karma Choling Monastery",
+    "location": "Ben, South Sikkim",
+    "established": "1902 A.D",
+    "imageName": "South Comman image.jpg",
+    "latitude": 27.2300,
+    "longitude": 88.4200,
+    "history": "Ben Karma Choling Monastery, founded in 1902 in the village of Ben, South Sikkim, is a notable Karma Kagyu monastery that was established at the turn of the 20th century as Sikkim was experiencing increasing British Indian influence. Despite external pressures, the monastic institution at Ben remained a steadfast guardian of Tibetan Buddhist culture. The name 'Karma Choling' — 'The Place of Dharma of the Karma Kagyu' — directly proclaims its lineage affiliation. The founding lama was a disciple of senior Kagyu masters who came to Ben with the desire to establish a permanent monastic community serving both ordained monks and lay practitioners. The monastery grew from a small prayer hall into a substantial complex with a main temple, monk's quarters, a library, and open courtyards. The monks are renowned throughout South Sikkim for the precision and beauty of their chanting and ceremonial performance. The monastery has also been instrumental in preserving traditional Tibetan arts including thangka painting and butter sculpture."
+  },
+  {
+    "id": 94,
+    "name": "Namthang Norbu Tsho-ling Monastery",
+    "location": "Namthang, South Sikkim",
+    "established": "1914 A.D",
+    "imageName": "South Comman image.jpg",
+    "latitude": 27.2300,
+    "longitude": 88.4200,
+    "history": "Namthang Norbu Tsho-ling Monastery, established in 1914 in Namthang, South Sikkim, is a spiritually luminous monastery whose name 'Norbu Tsho-ling' means 'The Jewel Lake Dharma Place,' evoking the boundless depth and preciousness of the Buddhist teachings. Founded in the early 20th century during a dynamic period in Sikkimese history, the founding lama's vision was of a monastery serving not only as a place of worship but as a comprehensive centre for Buddhist learning, arts, and social welfare. The monastery rapidly became an important institution in Namthang, its main shrine room centred around an impressive representation of Amitayus (the Buddha of Boundless Life). The walls are adorned with thangka paintings depicting the lives of the eighty-four Mahasiddhas, commissioned as inspiration for practitioners. Namthang Norbu Tsho-ling has maintained strong traditions of annual Dharma courses and meditation retreats, drawing practitioners from across Sikkim, and has also been active in social welfare, education, and disaster relief efforts over the decades."
+  },
+  {
+    "id": 95,
+    "name": "Malli Tashi Chodarling Monastery",
+    "location": "Malli, South Sikkim",
+    "established": "1915 A.D",
+    "imageName": "South Comman image.jpg",
+    "latitude": 27.2300,
+    "longitude": 88.4200,
+    "history": "Malli Tashi Chodarling Monastery, founded in 1915 in the village of Malli, South Sikkim, is a cherished Nyingma monastery whose name 'Tashi Chodarling' means 'The Auspicious Place Where the Dharma Spreads.' The founding Nyingma lama identified the site at Malli as particularly sacred based on the presence of auspicious natural features — springs, old growth trees, and a specific configuration of hills associated with spiritual power in traditional Buddhist geomancy. The founding was marked by a grand ceremony attended by monks from across South Sikkim. The monastery is especially known for its annual Tsechu celebration on the tenth day of the Tibetan lunar month, drawing hundreds of devotees to watch spectacular cham performances. Its library holds a significant collection of canonical Buddhist texts including rare terma (treasure texts) discovered by Nyingma masters of previous centuries. Malli Tashi Chodarling continues as a living centre of Nyingma Buddhist practice, transmitting ancient wisdom to new generations."
+  },
+  {
+    "id": 96,
+    "name": "Wok Pabong Monastery",
+    "location": "Wok, South Sikkim",
+    "established": "1915 A.D",
+    "imageName": "South Comman image.jpg",
+    "latitude": 27.2300,
+    "longitude": 88.4200,
+    "history": "Wok Pabong Monastery, established in 1915 in the village of Wok, South Sikkim, was founded by a Nyingma lama who came to the village following a prophetic vision in which he saw the site as designated by Guru Padmasambhava for the establishment of a monastery. The name 'Pabong' carries associations with a protective peak or fortress, suggesting the monastery's role as a spiritual stronghold for the Wok community. Its establishment transformed the religious and cultural landscape of Wok — for the first time, the village had a permanent monastic institution providing regular prayers, rituals, and teachings, allowing young men to receive monastic training locally. The monastery's main shrine features a central statue of Shakyamuni Buddha surrounded by the Seven Medicine Buddhas, reflecting the monastery's traditional role in offering prayers for community health and well-being. Over its century of existence, Wok Pabong has conducted tens of thousands of ceremonies on behalf of the living and deceased of its community."
+  },
+  {
+    "id": 97,
+    "name": "Sangmo Sharchog Bephug Monastery",
+    "location": "Sangmo, South Sikkim",
+    "established": "1921 A.D",
+    "imageName": "South Comman image.jpg",
+    "latitude": 27.2300,
+    "longitude": 88.4200,
+    "history": "Sangmo Sharchog Bephug Monastery, founded in 1921 in the village of Sangmo, South Sikkim, is a monastery of unique spiritual character. Its name 'Sharchog Bephug' translates as 'The Eastern Cave of Perfection,' hinting at a tradition of cave meditation that preceded the formal monastery — local tradition holds that a wandering Nyingma yogi spent years meditating in a natural cave at this location, transforming the site into a place of powerful spiritual energy. The monastery is particularly renowned for its practice of Chöd — a distinctive Nyingma and Kagyu meditation practice in which the practitioner symbolically offers their own body to spirits as an act of supreme generosity and a means to overcome ego-clinging, performed using a hand drum (damaru) and curved knife (kartika) during the dark hours of the night. The monastery is considered one of the premier centres for Chöd practice in South Sikkim, and its annual festivals draw experienced practitioners from across the Himalayan region seeking this concentrated spiritual atmosphere."
+  },
+  {
+    "id": 98,
+    "name": "Parbing Samten Choling Monastery",
+    "location": "Parbing, South Sikkim",
+    "established": "1935 A.D",
+    "imageName": "South Comman image.jpg",
+    "latitude": 27.2300,
+    "longitude": 88.4200,
+    "history": "Parbing Samten Choling Monastery, established in 1935 in the village of Parbing, South Sikkim, is a deeply contemplative institution whose name 'Samten Choling' means 'The Place of Meditation and Dharma.' Founded by a Nyingma master who had completed multiple three-year retreats, the monastery was designed from the outset with intensive meditation in mind. In addition to the main shrine hall and monks' quarters, the complex includes dedicated meditation cabins set apart from the main buildings for extended solitary retreats, giving the monastery a particularly serene atmosphere. Its curriculum balances philosophical study of the Nyingma school's major texts — including the Nine Vehicles and Dzogchen teachings — with a disciplined daily meditation schedule. Parbing Samten Choling has produced several recognised meditation masters over the decades, contributing significantly to the living transmission of the Nyingma contemplative tradition in South Sikkim."
+  },
+  {
+    "id": 99,
+    "name": "Tekling Dzokchen Monastery",
+    "location": "Tekling, South Sikkim",
+    "established": "1936 A.D",
+    "imageName": "South Comman image.jpg",
+    "latitude": 27.2300,
+    "longitude": 88.4200,
+    "history": "Tekling Dzokchen Monastery, founded in 1936 in the village of Tekling, South Sikkim, is one of the most spiritually distinguished monasteries in South Sikkim, bearing in its name the identity of the highest teaching of the Nyingma school — Dzokchen, the Great Perfection. The founding lama was a direct disciple of one of the great Dzogchen masters of the era, from whom he received the complete transmission of the Longchen Nyingthig — one of the most celebrated Dzogchen teaching cycles. The monastery's main shrine is centred around a statue of Samantabhadra, the primordial Buddha of the Dzogchen tradition, surrounded by representations of the entire Dzogchen lineage. The walls are covered with intricate mandalas and depictions of the peaceful and wrathful deities of the Bardo, serving as practical guides for practitioners engaged in the highest meditative practices. For nearly nine decades, Tekling Dzokchen Monastery has attracted monks, yogis, and practitioners who seek the deepest teachings of the Nyingma tradition."
+  },
+  {
+    "id": 100,
+    "name": "Namtse Ahaley Dechen Choling Monastery",
+    "location": "Namtse Ahaley, South Sikkim",
+    "established": "1948 A.D",
+    "imageName": "South Comman image.jpg",
+    "latitude": 27.2300,
+    "longitude": 88.4200,
+    "history": "Namtse Ahaley Dechen Choling Monastery, founded in 1948 in Namtse Ahaley, South Sikkim, was established in the year India gained independence. The name 'Dechen Choling' means 'The Place of Great Bliss Dharma,' invoking the Buddhist pure land of Dewachen — the realm of perfect bliss of the Buddha Amitabha. The founding lama was a prolific teacher and ritual master with extensive training in Nyingma philosophy, ritual performance, and sacred arts, who established the monastery as a comprehensive centre where all aspects of Buddhist culture would be preserved. One of the monastery's most celebrated activities is its annual performance of the Palchen Dupa — a major Nyingma ritual cycle lasting several days, in which hundreds of monks gather to perform elaborate offerings and sacred dances dedicated to the assembly of peaceful and wrathful deities. This complete ritual cycle, preserved at Namtse Ahaley even as it has been abbreviated or lost at many other monasteries, makes this institution a vital guardian of Nyingma ritual heritage in South Sikkim."
+  },
+  {
+    "id": 101,
+    "name": "Sorok Tamang Monastery",
+    "location": "Sorok, South Sikkim",
+    "established": "1962 A.D",
+    "imageName": "South Comman image.jpg",
+    "latitude": 27.2300,
+    "longitude": 88.4200,
+    "history": "Sorok Tamang Monastery, established in 1962 in the village of Sorok, South Sikkim, holds a distinctive place among the monasteries of South Sikkim as it is specifically associated with the Tamang community — one of the major Tibeto-Burman ethnic groups of the Himalayan region with a particularly devout Buddhist heritage. Founded in the same year that China launched its first nuclear test, and three years after the Tibetan exodus of 1959, the monastery was established partly to provide an institutional home for the Tibetan Buddhist lineages brought by refugee lamas, preserving them within the Tamang community of Sorok. The monastery is especially renowned for its tradition of Tamang Buddhist music — a unique regional style blending Tibetan Buddhist liturgy with indigenous Tamang musical elements — considered one of its most irreplaceable cultural treasures. The monastery has also played a crucial role in maintaining the Tamang language, oral literature, and traditional crafts in South Sikkim alongside its regular Buddhist educational programme."
+  },
+  {
+    "id": 102,
+    "name": "Suiram Risung Monastery",
+    "location": "Suiram, South Sikkim",
+    "established": "1995 A.D",
+    "imageName": "South Comman image.jpg",
+    "latitude": 27.2300,
+    "longitude": 88.4200,
+    "history": "Suiram Risung Monastery, founded in 1995 in the village of Suiram, South Sikkim, was established during the post-liberalisation era of India through the collaborative vision of local Buddhist families who felt a strong need for a permanent monastic institution in their village. The name 'Risung' evokes the image of a rising peak, symbolising the monastery's aspiration to elevate the spiritual life of the Suiram community. Prior to 1995, the community had relied on visiting monks for religious ceremonies, but the establishment of the monastery provided a permanent home for monks and a regular programme of prayers, teachings, and festivals. The founding was made possible through local fundraising, contributions from the wider Sikkimese Buddhist community, and support from senior lamas. The monastery was designed and built according to traditional Tibetan Buddhist architectural principles — careful orientation of the shrine room, proper placement of sacred images, and the creation of a harmonious spatial environment for meditation. Despite its relative youth, Suiram Risung has established itself as an important spiritual centre in South Sikkim."
+  },
+  {
+    "id": 103,
+    "name": "Namthang Nyima Choling Monastery",
+    "location": "Namthang, South Sikkim",
+    "established": "1997 A.D",
+    "imageName": "South Comman image.jpg",
+    "latitude": 27.2300,
+    "longitude": 88.4200,
+    "history": "Namthang Nyima Choling Monastery, established in 1997 in Namthang, South Sikkim, is a modern Buddhist monastery whose name 'Nyima Choling' means 'The Place of the Sun's Dharma' — suggesting bright, illuminating clarity that dispels the darkness of ignorance. Founded during a period of Buddhist renaissance in Sikkim, the founding lama had trained in both traditional Tibetan Buddhist institutions and modern academic settings, giving him a unique perspective on making ancient Buddhist wisdom relevant to contemporary communities. His vision for Namthang Nyima Choling was a monastery serving not only as a traditional place of worship but as a centre for modern Buddhist education, interfaith dialogue, and social service. The main shrine hall features a contemporary interpretation of traditional Tibetan Buddhist mural painting, executed by artists trained in both classical techniques and modern conservation methods. The monastery offers Dharma classes in the Nepali and Sikkimese languages for lay practitioners, making Buddhist teachings broadly accessible. It has also been involved in environmental conservation activities, reflecting its founder's belief that compassion must extend to care for the natural world."
+  },
+  {
+    "id": 104,
+    "name": "Gagyong Monastery",
+    "location": "Gagyong, South Sikkim",
+    "established": "2005 A.D",
+    "imageName": "South Comman image.jpg",
+    "latitude": 27.2300,
+    "longitude": 88.4200,
+    "history": "Gagyong Monastery, founded in 2005 in the village of Gagyong, South Sikkim, represents the continuing vitality of Buddhist religious culture in 21st century Sikkim. Established through sustained devotion and generosity of the Gagyong community, the monastery was championed by senior local Buddhists who worked tirelessly to raise funds, secure land, obtain permissions, and invite a senior Nyingma lama to oversee its establishment. The founding lama, a recognised master who had spent years in retreat before taking on this responsibility, guided the construction according to precise traditional specifications, with every aspect of the design guided by Buddhist principles and ritual requirements. The monastery's main shrine features a magnificent representation of Guru Padmasambhava 'with Consorts,' surrounded by elaborate offerings arranged for the consecration ceremony. Though young by historical standards, Gagyong Monastery has quickly established itself as an active spiritual centre, hosting regular festivals, meditation programmes, and community prayers that draw participants from across the surrounding area."
+  },
+  {
+    "id": 105,
+    "name": "Rabong Monastery",
+    "location": "Rabong, South Sikkim",
+    "established": "2006 A.D",
+    "imageName": "South Comman image.jpg",
+    "latitude": 27.2300,
+    "longitude": 88.4200,
+    "history": "Rabong Monastery, established in 2006, is the younger of two significant monastic institutions in Rabong, South Sikkim — the other being the older Rabong Kunphenling Tsechu Monastery — and represents a 21st century renewal of Buddhist monastic culture in the area. Founded through a community initiative driven by younger generations of Rabong's Buddhist families, the monastery was made possible through local fundraising, support from the Sikkim government's Department of Ecclesiastical Affairs, and donations from Buddhist organisations across Sikkim and beyond. The founding ceremony was attended by senior lamas and government officials, reflecting the institution's importance to both the local community and the broader Sikkimese Buddhist establishment. The main shrine hall features a central altar with a large statue of Shakyamuni Buddha flanked by his two chief disciples, with walls bearing newly commissioned murals painted in the classical Palpung Kagyu style by Nepali artists. The monastery has developed active programmes in Buddhist education for both monks and lay practitioners, including weekly Dharma classes and an annual summer youth programme."
+  },
+  {
+    "id": 106,
+    "name": "Rabong Kunphenling Tsechu Monastery",
+    "location": "Rabong, South Sikkim",
+    "established": "1972 A.D",
+    "imageName": "South Comman image.jpg",
+    "latitude": 27.2300,
+    "longitude": 88.4200,
+    "history": "Rabong Kunphenling Tsechu Monastery, founded in 1972 — just three years before Sikkim's integration into India — is one of the most important and beloved Nyingma monasteries in South Sikkim. Its name 'Kunphenling Tsechu' carries multiple meanings: 'Kunphenling' means 'The Place That Benefits All Beings,' while 'Tsechu' refers to the sacred tenth day of the Tibetan lunar calendar associated with Guru Padmasambhava, on which major Nyingma festivals are held. The monastery was established during a momentous period in Sikkimese history, when the kingdom was on the cusp of political transformation, and its founding was an affirmation of the Buddhist community's commitment to preserving their traditions through change. The annual Tsechu festival — with monks performing elaborate masked sacred dances depicting Guru Padmasambhava's subjugation of demonic forces — is one of the most celebrated events in South Sikkim's religious calendar, drawing hundreds of pilgrims. The monastery has maintained a strong monastic community for over five decades and remains a vital centre of Nyingma culture."
+  },
+  {
+    "id": 107,
+    "name": "Yangang Changchub Tamu Monastery",
+    "location": "Yangang, South Sikkim",
+    "established": "1982 A.D",
+    "imageName": "South Comman image.jpg",
+    "latitude": 27.2300,
+    "longitude": 88.4200,
+    "history": "Yangang Changchub Tamu Monastery, established in 1982 in the village of Yangang, South Sikkim, is a spiritually vibrant Nyingma monastery whose name 'Changchub Tamu' means 'The Gateway to Enlightenment.' Founded seven years after Sikkim's integration into India, the monastery emerged during a period of social and economic transformation when communities were working to ensure Buddhist traditions would flourish in the new political environment. The founding lama, having witnessed the destruction of Tibetan monasteries following the Chinese occupation, was deeply committed to establishing strong Nyingma centres in Sikkim. He worked closely with the senior monks of the older Yangang Gonpa Tashi Palding Gon to ensure the two Yangang monasteries would complement each other's activities. Yangang Changchub Tamu became particularly dedicated to training young monks in traditional monastic arts — sacred dance, ritual music, sand mandala creation, and thangka painting — producing graduates who serve as ritual specialists and community leaders across Sikkim. The monastery continues growing with expanded educational programmes to meet the needs of a new generation of practitioners."
+  }
+]

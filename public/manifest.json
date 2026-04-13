@@ -1,0 +1,38 @@
+
+{
+  "short_name": "Monastery360",
+  "name": "Monastery360 - Explore Sikkim's Sacred Heritage",
+  "icons": [
+    {
+      "src": "icons/sun-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/sun-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": ".",
+  "theme_color": "#667eea",
+  "description": "Explore the rich heritage of Sikkim's monasteries with virtual tours, cultural calendars, and interactive features.",
+  "shortcuts": [
+    {
+      "name": "Install Monastery360",
+      "short_name": "Install",
+      "description": "Install Monastery360 on your device",
+      "url": "/",
+      "icons": [{
+        "src": "icons/sun-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }]
+    }
+  ]
+}

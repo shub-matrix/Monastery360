@@ -1,0 +1,403 @@
+
+/* Main container to center the form */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Wrapper to center the form vertically and horizontally */
+.register-wrapper {
+  min-height: 100vh;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  background: linear-gradient(135deg, #fdcb6e 0%, #e17055 100%);
+  padding: 20px;
+  padding-top: 40px;
+  box-sizing: border-box;
+}
+
+/* Background pattern overlay */
+.register-wrapper::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: 
+    radial-gradient(circle at 20% 80%, rgba(255, 255, 255, 0.3) 2px, transparent 2px),
+    radial-gradient(circle at 80% 20%, rgba(255, 255, 255, 0.3) 2px, transparent 2px),
+    radial-gradient(circle at 40% 40%, rgba(255, 255, 255, 0.2) 1px, transparent 1px);
+  background-size: 50px 50px, 30px 30px, 20px 20px;
+  animation: floatParticles 3s linear infinite;
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* Float animation keyframes for background particles */
+@keyframes floatParticles {
+  0% {
+    background-position: 0px 0px, 0px 0px, 0px 0px;
+  }
+  25% {
+    background-position: 10px -5px, -5px 8px, 3px -2px;
+  }
+  50% {
+    background-position: -5px -10px, 8px -3px, -2px 5px;
+  }
+  75% {
+    background-position: -8px 5px, 3px -8px, 5px 3px;
+  }
+  100% {
+    background-position: 0px 0px, 0px 0px, 0px 0px;
+  }
+}
+
+/* Keep the old float animation for other elements that might use it */
+@keyframes float {
+  0% {
+    transform: translateY(0px) rotate(0deg);
+  }
+  33% {
+    transform: translateY(-10px) rotate(1deg);
+  }
+  66% {
+    transform: translateY(5px) rotate(-1deg);
+  }
+  100% {
+    transform: translateY(0px) rotate(0deg);
+  }
+}
+
+.form-container {
+  background: #ffffff;
+  padding: 40px 50px;
+  border-radius: 15px;
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1);
+  width: 450px;
+  max-width: 95%;
+  box-sizing: border-box;
+  position: relative;
+  overflow: hidden;
+  z-index: 2;
+}
+
+/* Add a subtle background pattern */
+.form-container::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 5px;
+  background: linear-gradient(90deg, #4caf50, #45a049, #66bb6a);
+}
+
+h2 {
+  text-align: center;
+  color: #2c3e50;
+  margin-bottom: 30px;
+  font-size: 28px;
+  font-weight: 600;
+  letter-spacing: -0.5px;
+}
+
+.form-container p {
+  margin: 20px 0;
+  position: relative;
+}
+
+/* Input label styling */
+.form-container p::before {
+  content: attr(data-label);
+  position: absolute;
+  top: -8px;
+  left: 12px;
+  background: white;
+  padding: 0 8px;
+  font-size: 12px;
+  color: #666;
+  font-weight: 500;
+  z-index: 1;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+  width: 100%;
+  padding: 16px 20px;
+  border: 2px solid #e1e8ed;
+  border-radius: 10px;
+  outline: none;
+  font-size: 16px;
+  transition: all 0.3s ease;
+  box-sizing: border-box;
+  background-color: #fafbfc;
+}
+
+/* Add extra padding for password input */
+.password-input-container input[type="password"],
+.password-input-container input[type="text"] {
+  padding-right: 50px;
+}
+
+input:focus {
+  border-color: #4caf50;
+  box-shadow: 0 0 0 3px rgba(76, 175, 80, 0.1);
+  background-color: #ffffff;
+  transform: translateY(-2px);
+}
+
+input::placeholder {
+  color: #9ca3af;
+  font-weight: 400;
+}
+
+/* Password input container */
+.password-input-container {
+  position: relative;
+}
+
+/* Password toggle button */
+.password-toggle {
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: transparent;
+  border: none;
+  padding: 8px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #666;
+  transition: color 0.3s ease;
+  width: auto;
+  margin: 0;
+  z-index: 2;
+}
+
+.password-toggle:hover {
+  color: #4caf50;
+  background: transparent;
+  transform: translateY(-50%);
+  box-shadow: none;
+}
+
+.password-toggle:active {
+  transform: translateY(-50%) scale(0.95);
+}
+
+.password-toggle::after {
+  display: none;
+}
+
+.password-toggle svg {
+  width: 20px;
+  height: 20px;
+}
+
+button {
+  width: 100%;
+  padding: 16px;
+  background: linear-gradient(135deg, #4caf50 0%, #45a049 100%);
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin-top: 10px;
+  position: relative;
+  overflow: hidden;
+}
+
+/* button:hover {
+  background: linear-gradient(135deg, #45a049 0%, #3d8b40 100%);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(76, 175, 80, 0.3);
+} */
+
+button:active {
+  transform: translateY(0);
+}
+
+/* Button ripple effect */
+button::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  transition: width 0.6s, height 0.6s;
+}
+
+button:active::after {
+  width: 300px;
+  height: 300px;
+}
+
+.error-message {
+  text-align: center;
+  margin-bottom: 20px;
+  padding: 12px 20px;
+  color: #e53935;
+  background-color: rgba(229, 57, 53, 0.1);
+  border: 1px solid rgba(229, 57, 53, 0.2);
+  border-radius: 8px;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.success-message {
+  text-align: center;
+  margin-bottom: 20px;
+  padding: 12px 20px;
+  color: #4caf50;
+  background-color: rgba(76, 175, 80, 0.1);
+  border: 1px solid rgba(76, 175, 80, 0.2);
+  border-radius: 8px;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+/* Google Sign-In Styles */
+.google-login-container {
+  margin: 20px 0;
+  min-height: 44px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+#google-signin-button-register {
+  margin-bottom: 10px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 100%;
+}
+
+#google-signin-button-register > div {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+#google-signin-button-register iframe {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+#google-signin-button-register button,
+#google-signin-button-register > div > div {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+.divider {
+  text-align: center;
+  margin: 25px 0;
+  position: relative;
+}
+
+.divider::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background-color: #e1e8ed;
+}
+
+.divider span {
+  background-color: white;
+  color: #666;
+  padding: 0 15px;
+  font-size: 14px;
+  position: relative;
+  z-index: 1;
+}
+
+/* Auth link styling */
+.auth-link {
+  text-align: center;
+  margin-top: 25px;
+  padding-top: 20px;
+  border-top: 1px solid #e1e8ed;
+}
+
+.auth-link p {
+  margin: 0;
+  color: #666;
+  font-size: 14px;
+}
+
+.auth-link a {
+  color: #4caf50;
+  text-decoration: none;
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
+
+.auth-link a:hover {
+  color: #45a049;
+  text-decoration: underline;
+}
+@media screen and (max-width: 768px) {
+  .register-wrapper {
+    padding: 15px;
+    padding-top: 75px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .register-wrapper {
+    padding: 10px;
+    padding-top: 70px;
+  }
+  
+  .form-container {
+    padding: 30px 25px;
+    width: 100%;
+  }
+
+  h2 {
+    font-size: 24px;
+    margin-bottom: 25px;
+  }
+
+  input[type="text"],
+  input[type="email"],
+  input[type="password"],
+  button {
+    font-size: 15px;
+    padding: 14px 18px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .register-wrapper {
+    padding: 10px;
+    padding-top: 65px;
+  }
+  
+  .form-container {
+    padding: 20px 15px;
+  }
+  
+  h2 {
+    font-size: 22px;
+  }
+}

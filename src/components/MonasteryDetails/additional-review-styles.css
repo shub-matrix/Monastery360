@@ -1,0 +1,161 @@
+/* Additional CSS for multiple reviews support - Add these styles to your ReviewSection.css file */
+
+/* User Reviews Section */
+.user-reviews-section {
+    margin-bottom: 1rem;
+}
+
+.user-reviews-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.75rem;
+    border-bottom: 1px solid var(--border-color, #e0e0e0);
+    padding-bottom: 0.5rem;
+}
+
+.user-reviews-header h4 {
+    margin: 0;
+    color: var(--primary-color, #2563eb);
+    font-size: 1.1rem;
+}
+
+.user-reviews-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+.user-review-compact {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 0.75rem;
+    background: var(--background-light, #f8fafc);
+    border-radius: 8px;
+    border: 1px solid var(--border-color, #e0e0e0);
+    transition: all 0.2s ease;
+}
+
+.user-review-compact:hover {
+    background: var(--background-hover, #f1f5f9);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.user-review-preview {
+    flex: 1;
+    margin-right: 1rem;
+}
+
+.review-rating-small {
+    display: flex;
+    margin-bottom: 0.25rem;
+}
+
+.review-rating-small .star {
+    color: #ddd;
+    font-size: 0.8rem;
+    margin-right: 2px;
+}
+
+.review-rating-small .star.filled {
+    color: var(--star-color, #fbbf24);
+}
+
+.review-snippet {
+    margin: 0.25rem 0;
+    font-size: 0.9rem;
+    color: var(--text-secondary, #64748b);
+    line-height: 1.4;
+}
+
+.review-date {
+    color: var(--text-muted, #94a3b8);
+    font-size: 0.75rem;
+}
+
+.review-actions {
+    display: flex;
+    gap: 0.5rem;
+    align-items: flex-start;
+}
+
+.btn-tiny {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.75rem;
+    border-radius: 4px;
+    border: 1px solid;
+    background: none;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-weight: 500;
+}
+
+.btn-tiny:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.btn-tiny.btn-outline {
+    border-color: var(--primary-color, #2563eb);
+    color: var(--primary-color, #2563eb);
+}
+
+.btn-tiny.btn-outline:hover:not(:disabled) {
+    background: var(--primary-color, #2563eb);
+    color: white;
+}
+
+.btn-tiny.btn-danger {
+    border-color: var(--danger-color, #dc2626);
+    color: var(--danger-color, #dc2626);
+}
+
+.btn-tiny.btn-danger:hover:not(:disabled) {
+    background: var(--danger-color, #dc2626);
+    color: white;
+}
+
+.more-reviews-text {
+    text-align: center;
+    font-size: 0.85rem;
+    color: var(--text-muted, #94a3b8);
+    font-style: italic;
+    margin: 0.5rem 0;
+}
+
+.write-review-prompt p {
+    margin: 0;
+    font-size: 0.9rem;
+    color: var(--text-secondary, #64748b);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .user-review-compact {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+    .user-review-preview {
+        margin-right: 0;
+    }
+
+    .review-actions {
+        align-self: stretch;
+        justify-content: flex-end;
+    }
+
+    .user-reviews-header {
+        flex-direction: column;
+        gap: 0.5rem;
+        align-items: stretch;
+    }
+
+    .user-reviews-header button {
+        align-self: center;
+        width: fit-content;
+    }
+}

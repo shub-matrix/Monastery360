@@ -1,0 +1,106 @@
+/* Profile page wrapper for background effect */
+.profile-wrapper {
+  min-height: 100vh;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  background: linear-gradient(135deg, #66a0dd 0%, #fc9981 100%);
+  padding: 20px;
+  padding-top: 24px;
+  box-sizing: border-box;
+}
+
+.profile-wrapper::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image:
+    radial-gradient(circle at 20% 80%, rgba(255, 255, 255, 0.3) 2px, transparent 2px),
+    radial-gradient(circle at 80% 20%, rgba(255, 255, 255, 0.3) 2px, transparent 2px),
+    radial-gradient(circle at 40% 40%, rgba(255, 255, 255, 0.2) 1px, transparent 1px);
+  background-size: 50px 50px, 30px 30px, 20px 20px;
+  animation: floatParticles 3s linear infinite;
+  pointer-events: none;
+  z-index: 1;
+}
+body {
+  background: linear-gradient(135deg, #fdcb6e 0%, #e17055 100%);
+  background-image:
+    radial-gradient(circle at 20% 80%, rgba(255, 255, 255, 0.3) 2px, transparent 2px),
+    radial-gradient(circle at 80% 20%, rgba(255, 255, 255, 0.3) 2px, transparent 2px),
+    radial-gradient(circle at 40% 40%, rgba(255, 255, 255, 0.2) 1px, transparent 1px);
+  background-size: 50px 50px, 30px 30px, 20px 20px;
+  animation: floatParticles 3s linear infinite;
+}
+.profile-container {
+  max-width: 400px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: #e3f2fd;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+}
+.profile-container {
+  max-width: 400px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: #e3f2fd;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+  position: static;
+}
+.profile-container label {
+  font-weight: 500;
+  margin-bottom: 0.3rem;
+  color: #34495e;
+}
+.profile-container input {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 1rem;
+  background: #f9f9f9;
+}
+.profile-container button[type="submit"] {
+  background: #2980b9;
+  color: #fff;
+  border: none;
+  padding: 0.7rem;
+  border-radius: 6px;
+  font-size: 1rem;
+  cursor: pointer;
+  margin-top: 1rem;
+  transition: background 0.2s;
+}
+.profile-container button[type="submit"]:hover {
+  background: #3498db;
+  transform: none;
+  box-shadow: none;
+}
+.profile-container .logout-btn {
+  background: #fc9981;
+  color: #fff;
+  border: none;
+  padding: 0.7rem;
+  border-radius: 6px;
+  font-size: 1rem;
+  cursor: pointer;
+  margin-top: 1rem;
+  transition: background 0.2s;
+  text-align: center;
+  display: block;
+  width: 100%;
+}
+.profile-container .logout-btn:hover {
+  background: #c0392b;
+  transform: none;
+  box-shadow: none;
+}
+.profile-container div[style] {
+  margin-top: 0.5rem;
+  font-size: 0.95rem;
+}

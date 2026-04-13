@@ -1,0 +1,773 @@
+/* Event Details Page Styles */
+.event-details-container {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  font-family: 'Segoe UI', Tango, Geneva, Verdana, sans-serif;
+  font-size: clamp(0.875rem, 2.5vw, 1rem);
+  line-height: 1.6;
+  overflow-x: hidden;
+  box-sizing: border-box;
+}
+
+/* Header Section */
+.event-details-header {
+  position: relative;
+  overflow: hidden;
+}
+
+.back-button {
+  position: absolute;
+  top: 2rem;
+  left: 2rem;
+  background: rgba(255, 255, 255, 0.95);
+  color: black;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 50px;
+  font-size: clamp(0.9rem, 2.5vw, 1rem);
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  z-index: 100;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+  backdrop-filter: blur(15px);
+  min-height: 44px;
+  min-width: 44px;
+  max-width: 200px;
+  width: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  touch-action: manipulation;
+}
+
+.back-button:hover {
+  background: white;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+}
+
+/* Hero Section */
+.event-hero {
+  position: relative;
+  padding: clamp(6rem, 15vw, 8rem) clamp(1rem, 5vw, 2rem) clamp(3rem, 8vw, 4rem) clamp(1rem, 5vw, 2rem);
+  text-align: center;
+  color: white;
+  overflow: hidden;
+  min-height: clamp(300px, 50vh, 450px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-attachment: fixed;
+}
+
+.event-hero.major {
+  background: linear-gradient(135deg, #fd79a8 0%, #e84393 100%);
+}
+
+.event-hero.religious {
+  background: linear-gradient(135deg, #fdcb6e 0%, #e17055 100%);
+}
+
+.event-hero.cultural {
+  background: linear-gradient(135deg, #6c5ce7 0%, #a29bfe 100%);
+}
+
+.event-hero.monthly {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.hero-pattern {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  opacity: 0.1;
+  background-image: 
+    radial-gradient(circle at 20% 80%, white 2px, transparent 2px),
+    radial-gradient(circle at 80% 20%, white 2px, transparent 2px),
+    radial-gradient(circle at 40% 40%, white 1px, transparent 1px);
+  background-size: 50px 50px, 30px 30px, 20px 20px;
+  animation: float 20s linear infinite;
+}
+
+@keyframes float {
+  0% { transform: translateX(0px) translateY(0px); }
+  33% { transform: translateX(30px) translateY(-30px); }
+  66% { transform: translateX(-20px) translateY(20px); }
+  100% { transform: translateX(0px) translateY(0px); }
+}
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+  max-width: 800px;
+}
+
+.event-type-badge {
+  display: inline-block;
+  background: rgba(255, 255, 255, 0.2);
+  color: white;
+  padding: 0.5rem 1.5rem;
+  border-radius: 50px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 1.5rem;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(10px);
+}
+
+.event-title {
+  font-size: clamp(1.8rem, 8vw, 3.5rem);
+  font-weight: 800;
+  margin: 0 0 clamp(1rem, 4vw, 2rem) 0;
+  text-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+  line-height: 1.2;
+  word-wrap: break-word;
+  hyphens: auto;
+}
+
+.event-date-hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  font-size: 1.3rem;
+  font-weight: 600;
+  background: rgba(255, 255, 255, 0.15);
+  padding: 1rem 2rem;
+  border-radius: 50px;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.date-icon {
+  font-size: 1.5rem;
+}
+
+/* Content Section */
+.event-details-content {
+  padding: clamp(2rem, 8vw, 4rem) clamp(1rem, 4vw, 2rem);
+  max-width: 1400px;
+  margin: 0 auto;
+  scroll-behavior: smooth;
+  will-change: transform;
+}
+
+.content-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: clamp(1.5rem, 5vw, 3rem);
+  align-items: start;
+}
+
+/* Main Content */
+.main-content {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.content-section {
+  background: white;
+  padding: clamp(1.5rem, 5vw, 2.5rem);
+  border-radius: 20px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.content-section:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 35px rgba(0, 0, 0, 0.12);
+}
+
+.section-title {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: black;
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 3px solid #f8f9fa;
+}
+
+.section-icon {
+  font-size: 2rem;
+}
+
+.event-description,
+.event-significance,
+.cultural-highlights {
+  color: black;
+  font-size: 1.1rem;
+  line-height: 1.8;
+  margin: 0;
+}
+
+/* Activities Grid */
+.activities-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+}
+
+.activity-card {
+  background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+  padding: 1.5rem;
+  border-radius: 15px;
+  border: 1px solid #dee2e6;
+  transition: all 0.3s ease;
+  text-align: center;
+}
+
+.activity-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+.activity-text {
+  color: black;
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+/* Sidebar Content */
+.sidebar-content {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.info-card {
+  background: white;
+  padding: 2rem;
+  border-radius: 20px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.info-card-title {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: black;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 2px solid #f8f9fa;
+}
+
+.info-icon {
+  font-size: 1.4rem;
+}
+
+/* Info Items */
+.info-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid #f8f9fa;
+}
+
+.info-item:last-child {
+  border-bottom: none;
+}
+
+.info-label {
+  font-weight: 600;
+  color: black;
+}
+
+.info-value {
+  color: black;
+  font-weight: 500;
+}
+
+.info-badge {
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: white;
+}
+
+.info-badge.major {
+  background: linear-gradient(135deg, #fd79a8, #e84393);
+}
+
+.info-badge.religious {
+  background: linear-gradient(135deg, #fdcb6e, #e17055);
+}
+
+.info-badge.cultural {
+  background: linear-gradient(135deg, #6c5ce7, #a29bfe);
+}
+
+.info-badge.monthly {
+  background: linear-gradient(135deg, #667eea, #764ba2);
+}
+
+/* Monasteries List */
+.monasteries-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.monastery-item {
+  background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+  padding: 1rem;
+  border-radius: 10px;
+  border-left: 4px solid #667eea;
+}
+
+.monastery-name {
+  color: black;
+  font-weight: 600;
+}
+
+/* Visitor Information */
+.visitor-info-card {
+  background: linear-gradient(135deg, #e8f5e8, #d4edda);
+  border: 1px solid rgba(40, 167, 69, 0.2);
+}
+
+.visitor-details {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.visitor-item {
+  background: white;
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.visitor-label {
+  display: block;
+  font-weight: 700;
+  color: black;
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.visitor-value {
+  color: black;
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+/* Action Card */
+.action-card {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 2rem;
+  border-radius: 20px;
+  text-align: center;
+  box-shadow: 0 8px 25px rgba(102, 126, 234, 0.3);
+}
+
+.action-title {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: white;
+}
+
+.action-description {
+  color: rgba(255, 255, 255, 0.9);
+  margin-bottom: 2rem;
+  line-height: 1.6;
+}
+
+.action-button {
+  background: white;
+  color: #667eea;
+  border: none;
+  padding: 1rem 2rem;
+  border-radius: 50px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  width: 100%;
+}
+
+.action-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(255, 255, 255, 0.3);
+}
+
+/* Event Not Found */
+.event-not-found {
+  text-align: center;
+  padding: 4rem 2rem;
+  color: black;
+}
+
+.event-not-found h1 {
+  font-size: 3rem;
+  color: black;
+  margin-bottom: 1rem;
+}
+
+.event-not-found p {
+  font-size: 1.2rem;
+  color: black;
+  margin-bottom: 2rem;
+}
+
+/* Responsive Design */
+/* Large tablets and small laptops */
+@media (max-width: 1200px) {
+  .event-details-content {
+    padding: clamp(2rem, 5vw, 3rem) clamp(1rem, 3vw, 2rem);
+  }
+  
+  .content-grid {
+    gap: 2rem;
+  }
+}
+
+/* Tablets */
+@media (max-width: 1024px) {
+  .content-grid {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+  
+  .event-hero {
+    background-attachment: scroll;
+  }
+  
+  .back-button {
+    top: 1.5rem;
+    left: 1.5rem;
+    padding: 0.6rem 1.2rem;
+  }
+  
+  .sidebar-content {
+    order: -1;
+  }
+  
+  .info-card {
+    margin-bottom: 1rem;
+  }
+}
+
+/* Mobile devices */
+@media (max-width: 768px) {
+  .event-hero {
+    padding: clamp(6rem, 15vw, 7rem) 1rem clamp(2rem, 6vw, 3rem) 1rem;
+    min-height: clamp(280px, 45vh, 350px);
+    background-attachment: scroll;
+  }
+  
+  .back-button {
+    top: 1rem;
+    left: 1rem;
+    padding: 0.5rem 1rem;
+    font-size: 0.9rem;
+    z-index: 1000;
+  }
+  
+  .hero-content {
+    margin-top: 2rem;
+    padding-top: 0.5rem;
+  }
+  
+  .event-type-badge {
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .event-details-content {
+    padding: 1.5rem 1rem;
+  }
+  
+  .content-section,
+  .info-card {
+    padding: 1.2rem;
+  }
+  
+  .section-title {
+    font-size: 1.4rem;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+  
+  .activities-grid {
+    grid-template-columns: 1fr;
+    gap: 0.8rem;
+  }
+  
+  .activity-card {
+    padding: 1rem;
+  }
+  
+  .event-date-hero {
+    flex-direction: column;
+    gap: 0.5rem;
+    font-size: 1rem;
+    padding: 0.8rem 1.5rem;
+  }
+  
+  .monastery-item {
+    padding: 0.8rem;
+  }
+  
+  .visitor-item {
+    padding: 0.8rem;
+  }
+  
+  .action-card {
+    padding: 1.5rem;
+  }
+}
+
+/* Small mobile phones */
+@media (max-width: 480px) {
+  .event-hero {
+    padding: 5rem 0.8rem 2rem 0.8rem;
+    min-height: 280px;
+  }
+  
+  .back-button {
+    top: 0.8rem;
+    left: 0.8rem;
+    padding: 0.4rem 0.8rem;
+    font-size: 0.8rem;
+    z-index: 1000;
+  }
+  
+  .hero-content {
+    margin-top: 2.5rem;
+  }
+  
+  .event-details-content {
+    padding: 1rem 0.8rem;
+  }
+  
+  .content-section,
+  .info-card {
+    padding: 1rem;
+  }
+  
+  .section-title {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .event-type-badge {
+    font-size: 0.7rem;
+    padding: 0.3rem 1rem;
+  }
+  
+  .event-date-hero {
+    font-size: 0.9rem;
+    padding: 0.6rem 1rem;
+  }
+  
+  .monastery-item,
+  .visitor-item {
+    padding: 0.6rem;
+  }
+  
+  .activity-card {
+    padding: 0.8rem;
+  }
+  
+  .action-button {
+    padding: 0.8rem 1.5rem;
+    font-size: 0.9rem;
+  }
+}
+
+/* Extra small devices */
+@media (max-width: 360px) {
+  .event-hero {
+    padding: 4.5rem 0.5rem 1.5rem 0.5rem;
+    min-height: 260px;
+  }
+  
+  .back-button {
+    top: 0.5rem;
+    left: 0.5rem;
+    padding: 0.4rem 0.6rem;
+    font-size: 0.7rem;
+    z-index: 1000;
+  }
+  
+  .hero-content {
+    margin-top: 3rem;
+  }
+  
+  .event-type-badge {
+    margin-top: 1rem;
+  }
+  
+  .event-details-content {
+    padding: 0.8rem 0.5rem;
+  }
+  
+  .content-section,
+  .info-card {
+    padding: 0.8rem;
+  }
+  
+  .section-title {
+    font-size: 1.1rem;
+  }
+}
+
+/* Landscape mode for mobile */
+@media (max-height: 500px) and (orientation: landscape) {
+  .event-hero {
+    min-height: 220px;
+    padding: 4rem 1rem 2rem 1rem;
+  }
+  
+  .back-button {
+    top: 0.5rem;
+    left: 0.5rem;
+    z-index: 1000;
+  }
+  
+  .hero-content {
+    margin-top: 1.5rem;
+  }
+  
+  .event-details-content {
+    padding: 1rem;
+  }
+}
+
+/* Touch devices optimization */
+@media (pointer: coarse) {
+  .back-button {
+    min-height: 48px;
+    min-width: 48px;
+    touch-action: manipulation;
+  }
+  
+  .action-button {
+    min-height: 48px;
+    touch-action: manipulation;
+  }
+  
+  .activity-card {
+    touch-action: manipulation;
+    cursor: pointer;
+  }
+}
+
+/* High DPI displays */
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+  .content-section,
+  .info-card {
+    border-width: 0.5px;
+  }
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .event-details-container {
+    background: linear-gradient(135deg, #f7f8f9 0%, #fcfcfd 100%);
+  }
+  
+  .content-section,
+  .info-card {
+    /* background: #34495e; */
+    color: white;
+    border-color: rgba(255, 255, 255, 0.1);
+  }
+  
+  .monastery-item,
+  .visitor-item {
+    /* background: #2c3e50; */
+    color: white;
+  }
+  
+  .activity-card {
+    /* background: linear-gradient(135deg, #2c3e50, #34495e); */
+    color: white;
+  }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+  
+  .hero-pattern {
+    animation: none;
+  }
+}
+
+/* Improve text rendering on all devices */
+.event-details-container * {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Ensure proper box sizing */
+.event-details-container *,
+.event-details-container *::before,
+.event-details-container *::after {
+  box-sizing: border-box;
+}
+
+/* Focus states for accessibility */
+.back-button:focus,
+.action-button:focus {
+  outline: 3px solid rgba(102, 126, 234, 0.6);
+  outline-offset: 2px;
+}
+
+/* Improve readability with better contrast */
+.event-description,
+.event-significance,
+.cultural-highlights {
+  color: #2c3e50;
+  font-weight: 400;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+/* Print styles */
+@media print {
+  .back-button {
+    display: none;
+  }
+  
+  .event-hero {
+    background: #667eea !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  
+  .content-section,
+  .info-card {
+    break-inside: avoid;
+    box-shadow: none;
+    border: 1px solid #ddd;
+  }
+}
